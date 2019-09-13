@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>External Tracking Object</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>External Tracking Objects</value>
+    </caseValues>
+    <fields>
+        <label><!-- Additional_Comments__c --></label>
+        <name>Additional_Comments_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case Lookup --></label>
+        <name>Case_Lookup__c</name>
+        <relationshipLabel><!-- External Tracking Objects --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Case_Number__c --></label>
+        <name>Case_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Subject__c --></label>
+        <name>Case_Subject_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case__c --></label>
+        <name>Case_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case__c_grax_xf_case --></label>
+        <name>Case_c_grax_xf_case__c</name>
+    </fields>
+    <fields>
+        <label><!-- ConnectionReceivedId --></label>
+        <name>ConnectionReceivedId__c</name>
+    </fields>
+    <fields>
+        <label><!-- ConnectionSentId --></label>
+        <name>ConnectionSentId__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById --></label>
+        <name>CreatedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById_grax_xf_user --></label>
+        <name>CreatedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate --></label>
+        <name>CreatedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAXCompanyName --></label>
+        <name>GRAXCompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Key --></label>
+        <name>GRAX_Execution_Unique_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Keys --></label>
+        <name>GRAX_Execution_Unique_Keys__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Version --></label>
+        <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Id --></label>
+        <name>Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsDeleted --></label>
+        <name>IsDeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsLocked --></label>
+        <name>IsLocked__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastActivityDate --></label>
+        <name>LastActivityDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById --></label>
+        <name>LastModifiedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById_grax_xf_user --></label>
+        <name>LastModifiedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedDate --></label>
+        <name>LastModifiedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MayEdit --></label>
+        <name>MayEdit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId --></label>
+        <name>OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId_grax_xf_OwnerId --></label>
+        <name>OwnerId_grax_xf_OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shipment_Code__c --></label>
+        <name>Shipment_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SystemModstamp --></label>
+        <name>SystemModstamp__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxModifiedTime --></label>
+        <name>graxModifiedTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Case__r_CaseNumber --></label>
+        <name>grax_Case_r_CaseNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedBy_Name --></label>
+        <name>grax_CreatedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_LastModifiedBy_Name --></label>
+        <name>grax_LastModifiedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_OwnerId_xf --></label>
+        <name>grax_OwnerId_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner Name --></label>
+        <name>grax_Owner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_case__c_name --></label>
+        <name>grax_case_c_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_case_xf --></label>
+        <name>grax_case_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_connectionreceivedid_name --></label>
+        <name>grax_connectionreceivedid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_connectionsentid_name --></label>
+        <name>grax_connectionsentid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_createdbyid_name --></label>
+        <name>grax_createdbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_lastmodifiedbyid_name --></label>
+        <name>grax_lastmodifiedbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_ownerid_name --></label>
+        <name>grax_ownerid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_tracking_object__c_name --></label>
+        <name>grax_tracking_object_c_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_tracking_object__c_xf --></label>
+        <name>grax_tracking_object_c_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_user_xf --></label>
+        <name>grax_user_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_xf --></label>
+        <name>grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxid --></label>
+        <name>graxid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxorgid --></label>
+        <name>graxorgid__c</name>
+    </fields>
+    <layouts>
+        <layout>graxtracking_object__cindex Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Restore --></label>
+        <name>Restore</name>
+    </webLinks>
+</CustomObjectTranslation>
