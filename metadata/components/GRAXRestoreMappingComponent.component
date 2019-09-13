@@ -1,0 +1,30 @@
+<apex:component controller="GRAXManagementAppCtrl">
+
+    <apex:attribute name="datalakeIndexName" type="String" assignTo="{!datalakeIndex}" required="false" description="Name of the index in GRAX" />
+
+    <apex:outputPanel layout="none" rendered="{!isAuthenticated}">
+        <script src="{!URLFOR($Resource.grax, '/thirdparty/iframeResizer.min.js')}"></script>
+
+        <style>
+            #GRAXRestoreMappingSection {
+                width: 100%!important;
+                min-height: 100vh;
+                border: 0; 
+            }
+        </style>
+        
+        <iframe id="GRAXRestoreMappingSection" height="100%" data-src="{!url}?orgid={!orgid}&sessionid={!sessionid}&endpoint={!endpoint}&domainurl={!graxdomain}&token={!token}&userid={!userid}&locale={!userLocale}&tz={!userTimeZone}{!IF(NOT(ISBLANK(datalakeIndex)), '&datalakeIndex=' & datalakeIndex, '')}#mapping" scrolling="no"></iframe>
+        
+        <script>
+            document.addEventListener('DOMContentLoaded', function(e) {
+                var isAppleDevice = navigator.platform.match(/(Mac|iPhone|iPod|iPad)/i) ? true : false;
+                
+                iFrameResize({
+                    log: false,
+                    checkOrigin: false,
+                    heightCalculationMethod: isAppleDevice ? 'bodyScroll' : 'bodyOffset'
+                }, '#GRAXRestoreMappingSection');
+            });                       
+        </script>
+    </apex:outputPanel>
+</apex:component>
