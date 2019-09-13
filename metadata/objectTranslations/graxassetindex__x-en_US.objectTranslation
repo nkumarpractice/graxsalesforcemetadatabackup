@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>graxassetindex</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>graxassetindex</value>
+    </caseValues>
+    <fields>
+        <label><!-- AccountId --></label>
+        <name>AccountId__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountId_grax_xf_account --></label>
+        <name>AccountId_grax_xf_account__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetLevel --></label>
+        <name>AssetLevel__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetProvidedById --></label>
+        <name>AssetProvidedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetServicedById --></label>
+        <name>AssetServicedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- Asset_Combo__c --></label>
+        <name>Asset_Combo_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactId --></label>
+        <name>ContactId__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactId_grax_xf_contact --></label>
+        <name>ContactId_grax_xf_contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById --></label>
+        <name>CreatedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById_grax_xf_user --></label>
+        <name>CreatedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate --></label>
+        <name>CreatedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current_Users_Asset__c --></label>
+        <name>Current_Users_Asset_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current_Users_Companys_Asset__c --></label>
+        <name>Current_Users_Companys_Asset_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DB_Days__c --></label>
+        <name>DB_Days_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email__c --></label>
+        <name>Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Entitlement_Status__c --></label>
+        <name>Entitlement_Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- External_ID__c --></label>
+        <name>External_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAXCompanyName --></label>
+        <name>GRAXCompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Key --></label>
+        <name>GRAX_Execution_Unique_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Keys --></label>
+        <name>GRAX_Execution_Unique_Keys__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Version --></label>
+        <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Id --></label>
+        <name>Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Image__c --></label>
+        <name>Image_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- InstallDate --></label>
+        <name>InstallDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsCompetitorProduct --></label>
+        <name>IsCompetitorProduct__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsDeleted --></label>
+        <name>IsDeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsInternal --></label>
+        <name>IsInternal__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsLocked --></label>
+        <name>IsLocked__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById --></label>
+        <name>LastModifiedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById_grax_xf_user --></label>
+        <name>LastModifiedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedDate --></label>
+        <name>LastModifiedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastReferencedDate --></label>
+        <name>LastReferencedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastViewedDate --></label>
+        <name>LastViewedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LocationId --></label>
+        <name>LocationId__c</name>
+    </fields>
+    <fields>
+        <label><!-- MayEdit --></label>
+        <name>MayEdit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId --></label>
+        <name>OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId_grax_xf_user --></label>
+        <name>OwnerId_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- ParentId --></label>
+        <name>ParentId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Price --></label>
+        <name>Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product2Id --></label>
+        <name>Product2Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product2Id_grax_xf_product2 --></label>
+        <name>Product2Id_grax_xf_product2__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductCode --></label>
+        <name>ProductCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductDescription --></label>
+        <name>ProductDescription__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductFamily --></label>
+        <name>ProductFamily__c</name>
+    </fields>
+    <fields>
+        <label><!-- PurchaseDate --></label>
+        <name>PurchaseDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Quantity --></label>
+        <name>Quantity__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId --></label>
+        <name>RecordTypeId__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId_grax_xf_recordtype --></label>
+        <name>RecordTypeId_grax_xf_recordtype__c</name>
+    </fields>
+    <fields>
+        <label><!-- RootAssetId --></label>
+        <name>RootAssetId__c</name>
+    </fields>
+    <fields>
+        <label><!-- RootAssetId_grax_xf_asset --></label>
+        <name>RootAssetId_grax_xf_asset__c</name>
+    </fields>
+    <fields>
+        <label><!-- Scheduled_Servicing__c --></label>
+        <name>Scheduled_Servicing_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SerialNumber --></label>
+        <name>SerialNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service_Contract__c --></label>
+        <name>Service_Contract_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service_Frequency_Weeks__c --></label>
+        <name>Service_Frequency_Weeks_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- StockKeepingUnit --></label>
+        <name>StockKeepingUnit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Suggested_Products__c --></label>
+        <name>Suggested_Products_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SystemModstamp --></label>
+        <name>SystemModstamp__c</name>
+    </fields>
+    <fields>
+        <label><!-- URLsrc__c --></label>
+        <name>URLsrc_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- UsageEndDate --></label>
+        <name>UsageEndDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Warranty_Indicator__c --></label>
+        <name>Warranty_Indicator_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxModifiedTime --></label>
+        <name>graxModifiedTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Account_Name --></label>
+        <name>grax_Account_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Contact_Name --></label>
+        <name>grax_Contact_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedBy_Name --></label>
+        <name>grax_CreatedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_LastModifiedBy_Name --></label>
+        <name>grax_LastModifiedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Owner_Name --></label>
+        <name>grax_Owner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Product2_Name --></label>
+        <name>grax_Product2_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_RecordType_Name --></label>
+        <name>grax_RecordType_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_RootAsset_Name --></label>
+        <name>grax_RootAsset_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_account_xf --></label>
+        <name>grax_account_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_accountid_name --></label>
+        <name>grax_accountid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_asset_name --></label>
+        <name>grax_asset_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_asset_xf --></label>
+        <name>grax_asset_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_assetprovidedbyid_name --></label>
+        <name>grax_assetprovidedbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_assetservicedbyid_name --></label>
+        <name>grax_assetservicedbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_contact_xf --></label>
+        <name>grax_contact_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_contactid_name --></label>
+        <name>grax_contactid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_createdbyid_name --></label>
+        <name>grax_createdbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_lastmodifiedbyid_name --></label>
+        <name>grax_lastmodifiedbyid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_locationid_name --></label>
+        <name>grax_locationid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_ownerid_name --></label>
+        <name>grax_ownerid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_parentid_name --></label>
+        <name>grax_parentid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_product2_xf --></label>
+        <name>grax_product2_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_product2id_name --></label>
+        <name>grax_product2id_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_recordtype_xf --></label>
+        <name>grax_recordtype_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_recordtypeid_name --></label>
+        <name>grax_recordtypeid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_rootassetid_name --></label>
+        <name>grax_rootassetid_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_service_contract__c_name --></label>
+        <name>grax_service_contract_c_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_user_xf --></label>
+        <name>grax_user_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_xf --></label>
+        <name>grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxid --></label>
+        <name>graxid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxorgid --></label>
+        <name>graxorgid__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
