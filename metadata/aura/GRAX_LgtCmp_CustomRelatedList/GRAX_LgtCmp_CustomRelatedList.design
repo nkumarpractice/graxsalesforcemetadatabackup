@@ -1,0 +1,7 @@
+<design:component>
+    <design:attribute name="objectName" label="Object Name" description="The Object that contains the fields to be displayed."/>
+    <design:attribute name="fieldsToDisplay" label="Fields to Display" description="Comma-separated list of Salesforce Field API Names (case-sensitive) that will be displayed in the related list." />
+    <design:attribute name="height" label="Height (in pixels)" description="The height, in pixels, of the component." required="true" />
+    <design:attribute name="showPreviewButton" label="Show Preview Button" description="Check this field if you want to display the 'Preview' button, for each record in the related list." />
+    <design:attribute name="relationshipFieldName" label="Relationship Field Name" description="The API Name of the field that relates the child object with the parent object." />
+</design:component>
