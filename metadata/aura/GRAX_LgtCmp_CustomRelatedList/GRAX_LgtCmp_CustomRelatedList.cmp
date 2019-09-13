@@ -1,0 +1,16 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:hasRecordId" access="global">
+
+    <aura:attribute name="recordId" type="String"/>
+    <aura:attribute name="objectName" type="String" required="true" default="Account" access="global"/>
+    <aura:attribute name="fieldsToDisplay" type="String" required="true" default="Id" access="global"/>
+    <aura:attribute name="height" type="String" required="true" default="200" access="global"/>
+    <aura:attribute name="showPreviewButton" type="Boolean" default="false" access="global"/>
+	<aura:attribute name="relationshipFieldName" type="String" access="global"/>
+    
+	<article aura:id="gridContainer" class="slds-card slds-card_boundary">
+        <lightning:card title="{!'GRAX ' + v.objectName + ' records'}" iconName="standard:contact">            
+			<!-- The Visualforce page to send data to -->
+    		<iframe aura:id="vfFrame" src="{!'/apex/GRAXRestore?Id=' + v.recordId + '&amp;objToQuery=' + v.objectName + '&amp;isEmbedded=1&amp;isEmbeddedRelatedList=1&amp;selectedFields=' + v.fieldsToDisplay + '&amp;showPreviewButton=' + v.showPreviewButton + '&amp;relationshipFieldName=' + v.relationshipFieldName}" style="width: 100%;" frameborder="0" height="{!v.height}"/>
+        </lightning:card>
+    </article>
+</aura:component>
