@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>graxcasehistory__cindex</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>graxcasehistory__cindex</value>
+    </caseValues>
+    <fields>
+        <label><!-- CaseId__c --></label>
+        <name>CaseId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseId__c_grax_xf_case --></label>
+        <name>CaseId_c_grax_xf_case__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById --></label>
+        <name>CreatedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById__c --></label>
+        <name>CreatedById_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById__c_grax_xf_user --></label>
+        <name>CreatedById_c_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById_grax_xf_user --></label>
+        <name>CreatedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate --></label>
+        <name>CreatedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate__c --></label>
+        <name>CreatedDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- External_ID__c --></label>
+        <name>External_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field__c --></label>
+        <name>Field_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAXCompanyName --></label>
+        <name>GRAXCompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Key --></label>
+        <name>GRAX_Execution_Unique_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Keys --></label>
+        <name>GRAX_Execution_Unique_Keys__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Version --></label>
+        <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Id --></label>
+        <name>Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsDeleted --></label>
+        <name>IsDeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsLocked --></label>
+        <name>IsLocked__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById --></label>
+        <name>LastModifiedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById_grax_xf_user --></label>
+        <name>LastModifiedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedDate --></label>
+        <name>LastModifiedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- MayEdit --></label>
+        <name>MayEdit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- NewValue__c --></label>
+        <name>NewValue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OldValue__c --></label>
+        <name>OldValue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SystemModstamp --></label>
+        <name>SystemModstamp__c</name>
+    </fields>
+    <fields>
+        <label><!-- analyticsdemo_batch_id__c --></label>
+        <name>analyticsdemo_batch_id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxModifiedTime --></label>
+        <name>graxModifiedTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CaseId__r_CaseNumber --></label>
+        <name>grax_CaseId_r_CaseNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedById__r_Name --></label>
+        <name>grax_CreatedById_r_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedBy_Name --></label>
+        <name>grax_CreatedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_LastModifiedBy_Name --></label>
+        <name>grax_LastModifiedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_case_xf --></label>
+        <name>grax_case_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_casehistory__c_name --></label>
+        <name>grax_casehistory_c_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_casehistory__c_xf --></label>
+        <name>grax_casehistory_c_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_user_xf --></label>
+        <name>grax_user_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_xf --></label>
+        <name>grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxid --></label>
+        <name>graxid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxorgid --></label>
+        <name>graxorgid__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
