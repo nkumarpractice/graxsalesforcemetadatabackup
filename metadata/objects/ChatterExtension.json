@@ -8768,6 +8768,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "conversation:mediaPlayerContainer"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "cooper:companyInsight"
         },
         {
@@ -59701,6 +59708,13 @@
           "label": null,
           "validFor": null,
           "value": "wave:sdk"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "wave:sdkExample"
         },
         {
           "active": true,
@@ -67859,6 +67873,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "conversation:mediaPlayerContainer"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "cooper:companyInsight"
         },
         {
@@ -118792,6 +118813,13 @@
           "label": null,
           "validFor": null,
           "value": "wave:sdk"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "wave:sdkExample"
         },
         {
           "active": true,
