@@ -1,0 +1,26 @@
+<apex:page standardcontroller="Account" extensions="EnrichMatches" action="{!getDatalakeMatches}"  cache="false" showChat="false" showHeader="true"
+           lightningStylesheets="true" sidebar="true" applyHtmlTag="true" applyBodyTag="false" docType="html-5.0">
+    <script>
+    function redirectToMergePage(mergeUrl) {
+          window.top.location.href = mergeUrl;
+    }
+</script>
+    <apex:form >
+        <apex:pageBlock >          
+           <apex:commandButton action="{!processRedirect}" oncomplete="redirectToMergePage('{!finalUrl}');" value="Merge"/>
+            <apex:pageBlockTable value="{!finalMatches}" var="acc">
+             <apex:column >
+                    <apex:inputCheckbox id="inputChkbox" value="{!acc.selected}">
+                      <!--  <apex:actionSupport event="onchange" action="{!accountSelectedCheckeBoxChange}"/>-->
+                        <apex:param id="account" name="AccountId" value="{!acc.sObj.Id}" assignTo="{!objSelectedAccountId}"/>
+                 </apex:inputCheckbox>
+                 </apex:column>
+                <apex:column headerValue="Account Name" value="{!acc.sObj.Name}" />
+                <apex:column headerValue="Website" value="{!acc.sObj.website}" />
+                <apex:column headerValue="BillingPostalCode" value="{!acc.sObj.BillingPostalCode}" />
+                <apex:column headerValue="BillingCity" value="{!acc.sObj.BillingCity}" />
+                <apex:column headerValue="Score" value="{!acc.score}" />
+            </apex:pageBlockTable>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
