@@ -1048,11 +1048,11 @@
   "updateable": true,
   "urls": {
     "rowTemplate": "/services/data/v43.0/sobjects/MailmergeTemplate/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/MailmergeTemplate/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/MailmergeTemplate/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/01H/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/01H/e",
     "sobject": "/services/data/v43.0/sobjects/MailmergeTemplate"
   }
 }
