@@ -2157,11 +2157,11 @@
   "updateable": true,
   "urls": {
     "rowTemplate": "/services/data/v43.0/sobjects/grax__GRAXSettings__c/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/grax__GRAXSettings__c/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/grax__GRAXSettings__c/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/a01/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/a01/e",
     "quickActions": "/services/data/v43.0/sobjects/grax__GRAXSettings__c/quickActions",
     "layouts": "/services/data/v43.0/sobjects/grax__GRAXSettings__c/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/grax__GRAXSettings__c"
