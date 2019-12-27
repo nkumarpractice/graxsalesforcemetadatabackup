@@ -844,9 +844,30 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Active graxaccountindex Tab",
+          "validFor": null,
+          "value": "Tab.graxaccountindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Active GRAX Archive Process Tab",
           "validFor": null,
           "value": "Tab.grax__GRAX_Archive_Process__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Active graxcaseindex Tab",
+          "validFor": null,
+          "value": "Tab.graxcaseindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Active graxcontactindex Tab",
+          "validFor": null,
+          "value": "Tab.graxcontactindex__x"
         },
         {
           "active": true,
@@ -861,6 +882,13 @@
           "label": "Active GRAX Data Record Tab",
           "validFor": null,
           "value": "Tab.grax__GRAX_Data_Record__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Active graxopportunityindex Tab",
+          "validFor": null,
+          "value": "Tab.graxopportunityindex__x"
         },
         {
           "active": true,
@@ -882,6 +910,13 @@
           "label": "Active Individual Tab",
           "validFor": null,
           "value": "Tab.Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Active Interviewer Tab",
+          "validFor": null,
+          "value": "Tab.Interviewer__c"
         },
         {
           "active": true,
