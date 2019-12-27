@@ -881,11 +881,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/MessagingTemplate/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/MessagingTemplate/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/MessagingTemplate/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/MessagingTemplate/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0TD/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0TD/e",
     "layouts": "/services/data/v43.0/sobjects/MessagingTemplate/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/MessagingTemplate"
   }
