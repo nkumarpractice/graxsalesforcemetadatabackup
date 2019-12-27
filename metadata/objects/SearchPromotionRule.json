@@ -557,11 +557,11 @@
   "updateable": true,
   "urls": {
     "rowTemplate": "/services/data/v43.0/sobjects/SearchPromotionRule/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/SearchPromotionRule/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/SearchPromotionRule/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0MD/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0MD/e",
     "layouts": "/services/data/v43.0/sobjects/SearchPromotionRule/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/SearchPromotionRule"
   }
