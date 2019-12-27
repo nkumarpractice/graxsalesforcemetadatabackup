@@ -2250,7 +2250,7 @@
       "writeRequiresMasterRead": false
     },
     {
-      "aggregatable": true,
+      "aggregatable": false,
       "aiPredictionField": false,
       "autoNumber": false,
       "byteLength": 120,
@@ -2272,10 +2272,10 @@
       "encrypted": false,
       "externalId": false,
       "extraTypeInfo": null,
-      "filterable": true,
+      "filterable": false,
       "filteredLookupInfo": null,
       "formulaTreatNullNumberAsZero": false,
-      "groupable": true,
+      "groupable": false,
       "highScaleNumber": false,
       "htmlFormatted": false,
       "idLookup": false,
@@ -2302,7 +2302,7 @@
       "scale": 0,
       "searchPrefilterable": false,
       "soapType": "xsd:string",
-      "sortable": true,
+      "sortable": false,
       "type": "phone",
       "unique": false,
       "updateable": false,
@@ -2998,17 +2998,17 @@
   "urls": {
     "rowTemplate": "/services/data/v43.0/sobjects/Case/{ID}",
     "approvalLayouts": "/services/data/v43.0/sobjects/Case/describe/approvalLayouts",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
     "quickActions": "/services/data/v43.0/sobjects/Case/quickActions",
     "layouts": "/services/data/v43.0/sobjects/Case/describe/layouts",
     "compactLayouts": "/services/data/v43.0/sobjects/Case/describe/compactLayouts",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "caseArticleSuggestions": "/services/data/v43.0/sobjects/Case/suggestedArticles",
     "caseRowArticleSuggestions": "/services/data/v43.0/sobjects/Case/{ID}/suggestedArticles",
     "defaultValues": "/services/data/v43.0/sobjects/Case/defaultValues?recordTypeId&fields",
     "listviews": "/services/data/v43.0/sobjects/Case/listviews",
     "describe": "/services/data/v43.0/sobjects/Case/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/500/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/500/e",
     "sobject": "/services/data/v43.0/sobjects/Case"
   }
 }
