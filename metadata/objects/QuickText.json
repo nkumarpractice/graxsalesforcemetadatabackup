@@ -997,11 +997,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/QuickText/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/QuickText/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/QuickText/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/QuickText/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/574/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/574/e",
     "layouts": "/services/data/v43.0/sobjects/QuickText/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/QuickText"
   }
