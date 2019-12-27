@@ -6770,6 +6770,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "LimitSnapshot"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "LimitUsageHistory"
         },
         {
