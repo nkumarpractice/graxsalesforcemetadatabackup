@@ -237,6 +237,7 @@
         "Asset",
         "Contact",
         "Contract",
+        "Interviewer__c",
         "Lead",
         "Opportunity",
         "Order",
