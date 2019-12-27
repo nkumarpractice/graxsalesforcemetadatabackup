@@ -1510,11 +1510,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/ListEmail/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/ListEmail/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/ListEmail/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/ListEmail/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0XB/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0XB/e",
     "layouts": "/services/data/v43.0/sobjects/ListEmail/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/ListEmail"
   }
