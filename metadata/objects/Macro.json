@@ -995,9 +995,30 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "graxaccountindex",
+          "validFor": null,
+          "value": "graxaccountindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "GRAX Archive Process",
           "validFor": null,
           "value": "grax__GRAX_Archive_Process__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "graxcaseindex",
+          "validFor": null,
+          "value": "graxcaseindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "graxcontactindex",
+          "validFor": null,
+          "value": "graxcontactindex__x"
         },
         {
           "active": true,
@@ -1012,6 +1033,13 @@
           "label": "GRAX Data Record Id",
           "validFor": null,
           "value": "grax__GRAX_Data_Record_Id__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "graxopportunityindex",
+          "validFor": null,
+          "value": "graxopportunityindex__x"
         },
         {
           "active": true,
@@ -1033,6 +1061,13 @@
           "label": "Individual",
           "validFor": null,
           "value": "Individual"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": "Interviewer",
+          "validFor": null,
+          "value": "Interviewer__c"
         },
         {
           "active": true,
@@ -1170,11 +1205,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/Macro/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/Macro/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/Macro/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/Macro/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0JZ/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0JZ/e",
     "layouts": "/services/data/v43.0/sobjects/Macro/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/Macro"
   }
