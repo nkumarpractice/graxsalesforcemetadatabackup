@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>graxaccountindex</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>graxaccountindex</value>
+    </caseValues>
+    <fields>
+        <label><!-- AccountNumber --></label>
+        <name>AccountNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountSource --></label>
+        <name>AccountSource__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active__c --></label>
+        <name>Active_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AnnualRevenue --></label>
+        <name>AnnualRevenue__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingCity --></label>
+        <name>BillingCity__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingCountry --></label>
+        <name>BillingCountry__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingGeocodeAccuracy --></label>
+        <name>BillingGeocodeAccuracy__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingLatitude --></label>
+        <name>BillingLatitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingLongitude --></label>
+        <name>BillingLongitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingPostalCode --></label>
+        <name>BillingPostalCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingState --></label>
+        <name>BillingState__c</name>
+    </fields>
+    <fields>
+        <label><!-- BillingStreet --></label>
+        <name>BillingStreet__c</name>
+    </fields>
+    <fields>
+        <label><!-- CleanStatus --></label>
+        <name>CleanStatus__c</name>
+    </fields>
+    <fields>
+        <label><!-- CompareName --></label>
+        <name>CompareName__c</name>
+    </fields>
+    <fields>
+        <label><!-- CompareSite --></label>
+        <name>CompareSite__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById --></label>
+        <name>CreatedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById_grax_xf_user --></label>
+        <name>CreatedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate --></label>
+        <name>CreatedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- CustomerPriority__c --></label>
+        <name>CustomerPriority_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DandbCompanyId --></label>
+        <name>DandbCompanyId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dautonum__c --></label>
+        <name>Dautonum_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dave_Test__c --></label>
+        <name>Dave_Test_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- DformulaCurrency__c --></label>
+        <name>DformulaCurrency_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DformulaNumber__c --></label>
+        <name>DformulaNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dformuladate__c --></label>
+        <name>Dformuladate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dformulapercent__c --></label>
+        <name>Dformulapercent_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DunsNumber --></label>
+        <name>DunsNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fax --></label>
+        <name>Fax__c</name>
+    </fields>
+    <fields>
+        <label><!-- FirstName --></label>
+        <name>FirstName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAXCompanyName --></label>
+        <name>GRAXCompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Key --></label>
+        <name>GRAX_Execution_Unique_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Keys --></label>
+        <name>GRAX_Execution_Unique_Keys__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Version --></label>
+        <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Grax_Restore__c --></label>
+        <name>Grax_Restore_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Id --></label>
+        <name>Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Industry --></label>
+        <name>Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsDeleted --></label>
+        <name>IsDeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsPersonAccount --></label>
+        <name>IsPersonAccount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_Customer_Direct__c --></label>
+        <name>Is_Customer_Direct_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- JigsawCompanyId --></label>
+        <name>JigsawCompanyId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Jigsaw --></label>
+        <name>Jigsaw__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastActivityDate --></label>
+        <name>LastActivityDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById --></label>
+        <name>LastModifiedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById_grax_xf_user --></label>
+        <name>LastModifiedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedDate --></label>
+        <name>LastModifiedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastName --></label>
+        <name>LastName__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastReferencedDate --></label>
+        <name>LastReferencedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastViewedDate --></label>
+        <name>LastViewedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LatestBooleanField__c --></label>
+        <name>LatestBooleanField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LatestNumberField__c --></label>
+        <name>LatestNumberField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LatestTextField__c --></label>
+        <name>LatestTextField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MEmail__c --></label>
+        <name>MEmail_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MPercent__c --></label>
+        <name>MPercent_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MPicklistMultiselect__c --></label>
+        <name>MPicklistMultiselect_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MUrl__c --></label>
+        <name>MUrl_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MYFIELD__c --></label>
+        <name>MYFIELD_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MasterRecordId --></label>
+        <name>MasterRecordId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mdate__c --></label>
+        <name>Mdate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MformulaCurrency__c --></label>
+        <name>MformulaCurrency_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mformuladate__c --></label>
+        <name>Mformuladate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mformulanumber__c --></label>
+        <name>Mformulanumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtext__c --></label>
+        <name>Mtext_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtextarea__c --></label>
+        <name>Mtextarea_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtextarealong__c --></label>
+        <name>Mtextarealong_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtextarearich__c --></label>
+        <name>Mtextarearich_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtextencrypted__c --></label>
+        <name>Mtextencrypted_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mtime__c --></label>
+        <name>Mtime_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MultiSelectField__c --></label>
+        <name>MultiSelectField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MyAutoNumber__c --></label>
+        <name>MyAutoNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MyDateField__c_GRAX_text --></label>
+        <name>MyDateField_c_GRAX_text__c</name>
+    </fields>
+    <fields>
+        <label><!-- MyDateField__c --></label>
+        <name>MyDateField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MyNumberField__c --></label>
+        <name>MyNumberField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MyTimeField__c --></label>
+        <name>MyTimeField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NaicsCode --></label>
+        <name>NaicsCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- NaicsDesc --></label>
+        <name>NaicsDesc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- NewTestNumber__c --></label>
+        <name>NewTestNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NumberOfEmployees --></label>
+        <name>NumberOfEmployees__c</name>
+    </fields>
+    <fields>
+        <label><!-- NumberofLocations__c --></label>
+        <name>NumberofLocations_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OperatingHoursId --></label>
+        <name>OperatingHoursId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerAlias --></label>
+        <name>OwnerAlias__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId --></label>
+        <name>OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId_grax_xf_user --></label>
+        <name>OwnerId_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ownership --></label>
+        <name>Ownership__c</name>
+    </fields>
+    <fields>
+        <label><!-- ParentId --></label>
+        <name>ParentId__c</name>
+    </fields>
+    <fields>
+        <label><!-- ParentId_grax_xf_account --></label>
+        <name>ParentId_grax_xf_account__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonAssistantName --></label>
+        <name>PersonAssistantName__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonAssistantPhone --></label>
+        <name>PersonAssistantPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonBirthdate --></label>
+        <name>PersonBirthdate__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonContactId --></label>
+        <name>PersonContactId__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonContactId_grax_xf_contact --></label>
+        <name>PersonContactId_grax_xf_contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonDepartment --></label>
+        <name>PersonDepartment__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonDoNotCall --></label>
+        <name>PersonDoNotCall__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonEmailBouncedDate --></label>
+        <name>PersonEmailBouncedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonEmailBouncedReason --></label>
+        <name>PersonEmailBouncedReason__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonEmail --></label>
+        <name>PersonEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonHasOptedOutOfEmail --></label>
+        <name>PersonHasOptedOutOfEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonHasOptedOutOfFax --></label>
+        <name>PersonHasOptedOutOfFax__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonHomePhone --></label>
+        <name>PersonHomePhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonIndividualId --></label>
+        <name>PersonIndividualId__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonLastCURequestDate --></label>
+        <name>PersonLastCURequestDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonLastCUUpdateDate --></label>
+        <name>PersonLastCUUpdateDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonLeadSource --></label>
+        <name>PersonLeadSource__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingCity --></label>
+        <name>PersonMailingCity__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingCountry --></label>
+        <name>PersonMailingCountry__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingGeocodeAccuracy --></label>
+        <name>PersonMailingGeocodeAccuracy__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingLatitude --></label>
+        <name>PersonMailingLatitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingLongitude --></label>
+        <name>PersonMailingLongitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingPostalCode --></label>
+        <name>PersonMailingPostalCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingState --></label>
+        <name>PersonMailingState__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMailingStreet --></label>
+        <name>PersonMailingStreet__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonMobilePhone --></label>
+        <name>PersonMobilePhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherCity --></label>
+        <name>PersonOtherCity__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherCountry --></label>
+        <name>PersonOtherCountry__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherGeocodeAccuracy --></label>
+        <name>PersonOtherGeocodeAccuracy__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherLatitude --></label>
+        <name>PersonOtherLatitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherLongitude --></label>
+        <name>PersonOtherLongitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherPhone --></label>
+        <name>PersonOtherPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherPostalCode --></label>
+        <name>PersonOtherPostalCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherState --></label>
+        <name>PersonOtherState__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonOtherStreet --></label>
+        <name>PersonOtherStreet__c</name>
+    </fields>
+    <fields>
+        <label><!-- PersonTitle --></label>
+        <name>PersonTitle__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PhotoUrl --></label>
+        <name>PhotoUrl__c</name>
+    </fields>
+    <fields>
+        <label><!-- Rating --></label>
+        <name>Rating__c</name>
+    </fields>
+    <fields>
+        <label><!-- RaviNumber__c --></label>
+        <name>RaviNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId --></label>
+        <name>RecordTypeId__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId_grax_xf_recordtype --></label>
+        <name>RecordTypeId_grax_xf_recordtype__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLAExpirationDate__c --></label>
+        <name>SLAExpirationDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLASerialNumber__c --></label>
+        <name>SLASerialNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA__c --></label>
+        <name>SLA_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salutation --></label>
+        <name>Salutation__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingCity --></label>
+        <name>ShippingCity__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingCountry --></label>
+        <name>ShippingCountry__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingGeocodeAccuracy --></label>
+        <name>ShippingGeocodeAccuracy__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingLatitude --></label>
+        <name>ShippingLatitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingLongitude --></label>
+        <name>ShippingLongitude__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingPostalCode --></label>
+        <name>ShippingPostalCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingState --></label>
+        <name>ShippingState__c</name>
+    </fields>
+    <fields>
+        <label><!-- ShippingStreet --></label>
+        <name>ShippingStreet__c</name>
+    </fields>
+    <fields>
+        <label><!-- SicDesc --></label>
+        <name>SicDesc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sic --></label>
+        <name>Sic__c</name>
+    </fields>
+    <fields>
+        <label><!-- Site --></label>
+        <name>Site__c</name>
+    </fields>
+    <fields>
+        <label><!-- SystemModstamp --></label>
+        <name>SystemModstamp__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestData__c --></label>
+        <name>TestData_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- TickerSymbol --></label>
+        <name>TickerSymbol__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total_Reward_Points__c --></label>
+        <name>Total_Reward_Points_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tradestyle --></label>
+        <name>Tradestyle__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- UpsellOpportunity__c --></label>
+        <name>UpsellOpportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Website --></label>
+        <name>Website__c</name>
+    </fields>
+    <fields>
+        <label><!-- YearStarted --></label>
+        <name>YearStarted__c</name>
+    </fields>
+    <fields>
+        <label><!-- acc_date__c --></label>
+        <name>acc_date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- customLongText__c --></label>
+        <name>customLongText_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- customRichText__c --></label>
+        <name>customRichText_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- customdatetime__c --></label>
+        <name>customdatetime_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- daruauto__c --></label>
+        <name>daruauto_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- darucurrency__c --></label>
+        <name>darucurrency_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxModifiedTime --></label>
+        <name>graxModifiedTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Active__c --></label>
+        <name>grax_Active_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedBy_Name --></label>
+        <name>grax_CreatedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__CustomerPriority__c --></label>
+        <name>grax_CustomerPriority_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Languages__pc --></label>
+        <name>grax_Languages_pc__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_LastModifiedBy_Name --></label>
+        <name>grax_LastModifiedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Level__pc --></label>
+        <name>grax_Level_pc__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__NumberofLocations__c --></label>
+        <name>grax_NumberofLocations_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Owner_Name --></label>
+        <name>grax_Owner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Parent_Name --></label>
+        <name>grax_Parent_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_PersonContact_Name --></label>
+        <name>grax_PersonContact_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_RecordType_Name --></label>
+        <name>grax_RecordType_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__SLAExpirationDate__c --></label>
+        <name>grax_SLAExpirationDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__SLASerialNumber__c --></label>
+        <name>grax_SLASerialNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__SLA__c --></label>
+        <name>grax_SLA_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__UpsellOpportunity__c --></label>
+        <name>grax_UpsellOpportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_account_name --></label>
+        <name>grax_account_name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_account_xf --></label>
+        <name>grax_account_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_contact_xf --></label>
+        <name>grax_contact_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_recordtype_xf --></label>
+        <name>grax_recordtype_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_user_xf --></label>
+        <name>grax_user_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_xf --></label>
+        <name>grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxid --></label>
+        <name>graxid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxorgid --></label>
+        <name>graxorgid__c</name>
+    </fields>
+    <fields>
+        <label><!-- morningNumberFIeld__c --></label>
+        <name>morningNumberFIeld_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- myDateTimeField__c --></label>
+        <name>myDateTimeField_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- testautonumber__c --></label>
+        <name>testautonumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- testboolean__c --></label>
+        <name>testboolean_c__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
