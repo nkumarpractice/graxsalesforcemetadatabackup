@@ -1211,11 +1211,11 @@
   "updateable": true,
   "urls": {
     "rowTemplate": "/services/data/v43.0/sobjects/Scontrol/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/Scontrol/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/Scontrol/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/01N/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/01N/e",
     "sobject": "/services/data/v43.0/sobjects/Scontrol"
   }
 }
