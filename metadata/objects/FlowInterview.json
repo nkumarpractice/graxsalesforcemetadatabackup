@@ -847,11 +847,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/FlowInterview/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/FlowInterview/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/FlowInterview/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/FlowInterview/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0Fo/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0Fo/e",
     "layouts": "/services/data/v43.0/sobjects/FlowInterview/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/FlowInterview"
   }
