@@ -647,11 +647,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/ContentHubRepository/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/ContentHubRepository/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/ContentHubRepository/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/ContentHubRepository/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0XC/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0XC/e",
     "layouts": "/services/data/v43.0/sobjects/ContentHubRepository/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/ContentHubRepository"
   }
