@@ -976,11 +976,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/Pricebook2/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/Pricebook2/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/Pricebook2/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/Pricebook2/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/01s/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/01s/e",
     "layouts": "/services/data/v43.0/sobjects/Pricebook2/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/Pricebook2"
   }
