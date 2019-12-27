@@ -1820,12 +1820,12 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/CollaborationGroup/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/CollaborationGroup/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/CollaborationGroup/defaultValues?recordTypeId&fields",
     "listviews": "/services/data/v43.0/sobjects/CollaborationGroup/listviews",
     "describe": "/services/data/v43.0/sobjects/CollaborationGroup/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0F9/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0F9/e",
     "quickActions": "/services/data/v43.0/sobjects/CollaborationGroup/quickActions",
     "layouts": "/services/data/v43.0/sobjects/CollaborationGroup/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/CollaborationGroup"
