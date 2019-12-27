@@ -9,6 +9,10 @@
         <value>graxopportunityindex</value>
     </caseValues>
     <fields>
+        <label><!-- APJ_QUEUE__c --></label>
+        <name>APJ_QUEUE_c__c</name>
+    </fields>
+    <fields>
         <label><!-- AccountId --></label>
         <name>AccountId__c</name>
     </fields>
@@ -17,25 +21,96 @@
         <name>AccountId_grax_xf_account__c</name>
     </fields>
     <fields>
-        <label><!-- Account Lookup --></label>
-        <name>Account_Lookup__c</name>
-        <relationshipLabel><!-- graxopportunityindex --></relationshipLabel>
+        <label><!-- Account_Classification__c --></label>
+        <name>Account_Classification_c__c</name>
     </fields>
     <fields>
-        <label><!-- Account_Name --></label>
-        <name>Account_Name__c</name>
+        <label><!-- Account_ClosedOppurtunity__c --></label>
+        <name>Account_ClosedOppurtunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_ClosedOppurtunity__c_grax_xf_acc --></label>
+        <name>Account_ClosedOppurtunity_c_grax_xf_acco__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Country_Code__c --></label>
+        <name>Account_Country_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Country__c --></label>
+        <name>Account_Country_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Name_Merge__c --></label>
+        <name>Account_Name_Merge_c__c</name>
     </fields>
     <fields>
         <label><!-- Account_Name__c --></label>
         <name>Account_Name_c__c</name>
     </fields>
     <fields>
+        <label><!-- Account_OpenOppurtunity__c --></label>
+        <name>Account_OpenOppurtunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_OpenOppurtunity__c_grax_xf_accou --></label>
+        <name>Account_OpenOppurtunity_c_grax_xf_accoun__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Owner_Director__c --></label>
+        <name>Account_Owner_Director_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Owner_ISM__c --></label>
+        <name>Account_Owner_ISM_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Owner_RSM__c --></label>
+        <name>Account_Owner_RSM_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Owner__c --></label>
+        <name>Account_Owner_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Partner_Type__c --></label>
+        <name>Account_Partner_Type_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Account_Region__c --></label>
         <name>Account_Region_c__c</name>
     </fields>
     <fields>
-        <label><!-- Age__c_GRAX_float --></label>
-        <name>Age_c_GRAX_float__c</name>
+        <label><!-- Acct_Team__c --></label>
+        <name>Acct_Team_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Actions_available__c --></label>
+        <name>Actions_available_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Actual_Win_Loss_Date__c --></label>
+        <name>Actual_Win_Loss_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Add_Products__c --></label>
+        <name>Add_Products_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Additional_vol_to_team_Quarterly__c --></label>
+        <name>Additional_vol_to_team_Quarterly_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adjustment_Potential_Cost_Saving__c --></label>
+        <name>Adjustment_Potential_Cost_Saving_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adjustment_Weeks__c --></label>
+        <name>Adjustment_Weeks_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Affinity_ID__c --></label>
+        <name>Affinity_ID_c__c</name>
     </fields>
     <fields>
         <label><!-- Age__c --></label>
@@ -46,12 +121,72 @@
         <name>All_Products_c__c</name>
     </fields>
     <fields>
+        <label><!-- Alliance_Business_Type__c --></label>
+        <name>Alliance_Business_Type_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Amount --></label>
         <name>Amount__c</name>
     </fields>
     <fields>
+        <label><!-- Annual_Contract_Value_ACV__c --></label>
+        <name>Annual_Contract_Value_ACV_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Apos_Product__c --></label>
+        <name>Apos_Product_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AppAssure_Product_Flag__c --></label>
+        <name>AppAssure_Product_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AppAssure_Products_Revenue__c --></label>
+        <name>AppAssure_Products_Revenue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Are_there_Services__c --></label>
+        <name>Are_there_Services_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Assigned_To__c --></label>
+        <name>Assigned_To_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associated_Opportunity__c --></label>
+        <name>Associated_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Associated_Opportunity__c_grax_xf_opport --></label>
+        <name>Associated_Opportunity_c_grax_xf_opportu__c</name>
+    </fields>
+    <fields>
+        <label><!-- AutoCloseOpp_Criteria__c --></label>
+        <name>AutoCloseOpp_Criteria_c__c</name>
+    </fields>
+    <fields>
         <label><!-- AutoNumber__c --></label>
         <name>AutoNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- B2BCRTEndUserID__c --></label>
+        <name>B2BCRTEndUserID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- BRS_Opportunity_Nbr__c --></label>
+        <name>BRS_Opportunity_Nbr_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- BWL__c --></label>
+        <name>BWL_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bill_To_Ship_To_Comments__c --></label>
+        <name>Bill_To_Ship_To_Comments_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Book_Paper__c --></label>
+        <name>Book_Paper_c__c</name>
     </fields>
     <fields>
         <label><!-- Boosting_Reason__c --></label>
@@ -62,6 +197,38 @@
         <name>Budget_Approved_c__c</name>
     </fields>
     <fields>
+        <label><!-- Bulk_Change_Opportunity__c --></label>
+        <name>Bulk_Change_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bypass_Close_Date__c --></label>
+        <name>Bypass_Close_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bypass_Process_Flow__c --></label>
+        <name>Bypass_Process_Flow_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CFS_Special_Packaging__c --></label>
+        <name>CFS_Special_Packaging_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CPSD_Integration_Status__c --></label>
+        <name>CPSD_Integration_Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CTI_Call_Log_Id__c --></label>
+        <name>CTI_Call_Log_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Calculated_Delivery_Date__c --></label>
+        <name>Calculated_Delivery_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Calculated_Delivery_in_Weeks__c --></label>
+        <name>Calculated_Delivery_in_Weeks_c__c</name>
+    </fields>
+    <fields>
         <label><!-- CampaignId --></label>
         <name>CampaignId__c</name>
     </fields>
@@ -70,8 +237,84 @@
         <name>CampaignId_grax_xf_campaign__c</name>
     </fields>
     <fields>
-        <label><!-- Campaign_Name --></label>
-        <name>Campaign_Name__c</name>
+        <label><!-- Campaign__c --></label>
+        <name>Campaign_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Capacity_Purchased_in_TB_s_Units__c --></label>
+        <name>Capacity_Purchased_in_TB_s_Units_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Approval_Date__c --></label>
+        <name>CaseRTMigrate_Approval_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Close_Comments__c --></label>
+        <name>CaseRTMigrate_Close_Comments_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Closed_Reason__c --></label>
+        <name>CaseRTMigrate_Closed_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Competitor__c --></label>
+        <name>CaseRTMigrate_Competitor_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Contract_Modifier__c --></label>
+        <name>CaseRTMigrate_Contract_Modifier_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Dell_Deal_ID__c --></label>
+        <name>CaseRTMigrate_Dell_Deal_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Expiration_Date__c --></label>
+        <name>CaseRTMigrate_Expiration_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__MainCompetitors__c --></label>
+        <name>CaseRTMigrate_MainCompetitors_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Opportunity_Number__c --></label>
+        <name>CaseRTMigrate_Opportunity_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__OrderNumber__c --></label>
+        <name>CaseRTMigrate_OrderNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Product_Model__c --></label>
+        <name>CaseRTMigrate_Product_Model_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Quote_Cart_Number__c --></label>
+        <name>CaseRTMigrate_Quote_Cart_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Quote_Cart__c --></label>
+        <name>CaseRTMigrate_Quote_Cart_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Quote_Type__c --></label>
+        <name>CaseRTMigrate_Quote_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Quote_Version__c --></label>
+        <name>CaseRTMigrate_Quote_Version_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Sales_Channel__c --></label>
+        <name>CaseRTMigrate_Sales_Channel_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseRTMigrate__Sales_Force__c --></label>
+        <name>CaseRTMigrate_Sales_Force_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Status__c --></label>
+        <name>Case_Status_c__c</name>
     </fields>
     <fields>
         <label><!-- Case__c --></label>
@@ -82,12 +325,40 @@
         <name>Case_c_grax_xf_case__c</name>
     </fields>
     <fields>
-        <label><!-- Case__r_CaseNumber --></label>
-        <name>Case_r_CaseNumber__c</name>
+        <label><!-- Certification_Area_MasterProgramNames__c --></label>
+        <name>Certification_Area_MasterProgramNames_c__c</name>
     </fields>
     <fields>
-        <label><!-- CloseDate_TODAY__c_GRAX_float --></label>
-        <name>CloseDate_TODAY_c_GRAX_float__c</name>
+        <label><!-- Certification_Areas__c --></label>
+        <name>Certification_Areas_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Champion__c --></label>
+        <name>Champion_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Channel_Campaign__c --></label>
+        <name>Channel_Campaign_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Channel_Express_Status__c --></label>
+        <name>Channel_Express_Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Channel_Lead_ID_2__c --></label>
+        <name>Channel_Lead_ID_2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Channel_Lead_Id__c --></label>
+        <name>Channel_Lead_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Channel_Lead_Id__c_grax_xf_lead --></label>
+        <name>Channel_Lead_Id_c_grax_xf_lead__c</name>
+    </fields>
+    <fields>
+        <label><!-- Cloned_Parent_Id__c --></label>
+        <name>Cloned_Parent_Id_c__c</name>
     </fields>
     <fields>
         <label><!-- CloseDate_TODAY__c --></label>
@@ -106,8 +377,28 @@
         <name>Coaching_c_grax_xf_workcoaching__c</name>
     </fields>
     <fields>
-        <label><!-- Coaching__r_Name --></label>
-        <name>Coaching_r_Name__c</name>
+        <label><!-- Collaborating_with_Dell_Segment_Team__c --></label>
+        <name>Collaborating_with_Dell_Segment_Team_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Collaboration_Type__c --></label>
+        <name>Collaboration_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comment_if_Other__c --></label>
+        <name>Comment_if_Other_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Compelling_Event_Why_Now__c --></label>
+        <name>Compelling_Event_Why_Now_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Competency1__c --></label>
+        <name>Competency1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Competency__c --></label>
+        <name>Competency_c__c</name>
     </fields>
     <fields>
         <label><!-- Competition__c --></label>
@@ -120,6 +411,14 @@
     <fields>
         <label><!-- Competitive_Deal__c --></label>
         <name>Competitive_Deal_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Competitive_Products_Considered__c --></label>
+        <name>Competitive_Products_Considered_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Competitor_Lost_To__c --></label>
+        <name>Competitor_Lost_To_c__c</name>
     </fields>
     <fields>
         <label><!-- Competitor_Mentioned__c --></label>
@@ -138,8 +437,28 @@
         <name>Complete_ROI_Analysis_c__c</name>
     </fields>
     <fields>
-        <label><!-- Confirmed_RSU_Inclusion__c --></label>
-        <name>Confirmed_RSU_Inclusion_c__c</name>
+        <label><!-- Confidence_Factor__c --></label>
+        <name>Confidence_Factor_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Confirm_Competitor_Lost_To_Product__c --></label>
+        <name>Confirm_Competitor_Lost_To_Product_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Confirm_Competitor_Lost_To__c --></label>
+        <name>Confirm_Competitor_Lost_To_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Confirm_Years_of_Support__c --></label>
+        <name>Confirm_Years_of_Support_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Confirmed_for_Ocean_by_Finance_Gbl_Ops__ --></label>
+        <name>Confirmed_for_Ocean_by_Finance_Gbl_Ops_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Conflicting_Deal_ID__c --></label>
+        <name>Conflicting_Deal_ID_c__c</name>
     </fields>
     <fields>
         <label><!-- ConnectionReceivedId --></label>
@@ -148,10 +467,6 @@
     <fields>
         <label><!-- ConnectionSentId --></label>
         <name>ConnectionSentId__c</name>
-    </fields>
-    <fields>
-        <label><!-- ContactId --></label>
-        <name>ContactId__c</name>
     </fields>
     <fields>
         <label><!-- Contact_City__c --></label>
@@ -206,20 +521,52 @@
         <name>ContractId_grax_xf_contract__c</name>
     </fields>
     <fields>
-        <label><!-- Contract_ContractNumber --></label>
-        <name>Contract_ContractNumber__c</name>
-    </fields>
-    <fields>
         <label><!-- Contract_End_Date__c --></label>
         <name>Contract_End_Date_c__c</name>
     </fields>
     <fields>
-        <label><!-- Contract_Start_Date__c --></label>
-        <name>Contract_Start_Date_c__c</name>
+        <label><!-- Contract_Expiration_Date__c --></label>
+        <name>Contract_Expiration_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contract_Term__c --></label>
+        <name>Contract_Term_c__c</name>
     </fields>
     <fields>
         <label><!-- Contract_Terms__c --></label>
         <name>Contract_Terms_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Converted_By_Email__c --></label>
+        <name>Converted_By_Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Converted_By_Role__c --></label>
+        <name>Converted_By_Role_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Core_Distribution_VAR_APID__c --></label>
+        <name>Core_Distribution_VAR_APID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Core_Distribution_VAR_Name__c --></label>
+        <name>Core_Distribution_VAR_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Core_Distributor_Direct_Reseller_APID__c --></label>
+        <name>Core_Distributor_Direct_Reseller_APID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Core_Distributor_Direct_Reseller_Name__c --></label>
+        <name>Core_Distributor_Direct_Reseller_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Core_Product_Families__c --></label>
+        <name>Core_Product_Families_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Count_of_SNWL_Products__c --></label>
+        <name>Count_of_SNWL_Products_c__c</name>
     </fields>
     <fields>
         <label><!-- CreatedById --></label>
@@ -228,10 +575,6 @@
     <fields>
         <label><!-- CreatedById_grax_xf_user --></label>
         <name>CreatedById_grax_xf_user__c</name>
-    </fields>
-    <fields>
-        <label><!-- CreatedBy_Name --></label>
-        <name>CreatedBy_Name__c</name>
     </fields>
     <fields>
         <label><!-- CreatedDate --></label>
@@ -246,52 +589,128 @@
         <name>Created_Date_c__c</name>
     </fields>
     <fields>
+        <label><!-- Created_by_MIB_Process__c --></label>
+        <name>Created_by_MIB_Process_c__c</name>
+    </fields>
+    <fields>
         <label><!-- CurrentGenerators__c --></label>
         <name>CurrentGenerators_c__c</name>
     </fields>
     <fields>
-        <label><!-- DB_Amount__c_GRAX_float --></label>
-        <name>DB_Amount_c_GRAX_float__c</name>
+        <label><!-- Current_Year_Amount__c --></label>
+        <name>Current_Year_Amount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Custom_Service_Support_Request_Count__c --></label>
+        <name>Custom_Service_Support_Request_Count_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Engagement_Event_CSC__c --></label>
+        <name>Customer_Engagement_Event_CSC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Engagement_Event_CSC__c_grax_xf --></label>
+        <name>Customer_Engagement_Event_CSC_c_grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Engagement_Event__c --></label>
+        <name>Customer_Engagement_Event_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Engagement_Event__c_grax_xf_cus --></label>
+        <name>Customer_Engagement_Event_c_grax_xf_cust__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Req_Delivery_Period_in_Weeks__c --></label>
+        <name>Customer_Req_Delivery_Period_in_Weeks_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Requested_Delivery_Date__c --></label>
+        <name>Customer_Requested_Delivery_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Willing_To__c --></label>
+        <name>Customer_Willing_To_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_consent_to_engage_partner__c --></label>
+        <name>Customer_consent_to_engage_partner_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DADD_Information__c --></label>
+        <name>DADD_Information_c__c</name>
     </fields>
     <fields>
         <label><!-- DB_Amount__c --></label>
         <name>DB_Amount_c__c</name>
     </fields>
     <fields>
-        <label><!-- DB_Days__c_GRAX_float --></label>
-        <name>DB_Days_c_GRAX_float__c</name>
-    </fields>
-    <fields>
         <label><!-- DB_Days__c --></label>
         <name>DB_Days_c__c</name>
     </fields>
     <fields>
-        <label><!-- Data_Center_Region__c --></label>
-        <name>Data_Center_Region_c__c</name>
+        <label><!-- DFS_Engaged__c --></label>
+        <name>DFS_Engaged_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DGR_Level__c --></label>
+        <name>DGR_Level_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DGR_Report__c --></label>
+        <name>DGR_Report_c__c</name>
     </fields>
     <fields>
         <label><!-- DateTimeCreated__c --></label>
         <name>DateTimeCreated_c__c</name>
     </fields>
     <fields>
-        <label><!-- Days_Left_Until_Expire__c_GRAX_float --></label>
-        <name>Days_Left_Until_Expire_c_GRAX_float__c</name>
+        <label><!-- Days_Left_For_Closing__c --></label>
+        <name>Days_Left_For_Closing_c__c</name>
     </fields>
     <fields>
         <label><!-- Days_Left_Until_Expire__c --></label>
         <name>Days_Left_Until_Expire_c__c</name>
     </fields>
     <fields>
+        <label><!-- Days_Until_Deal_Expires__c --></label>
+        <name>Days_Until_Deal_Expires_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Days_to_Contract_Expiration__c --></label>
         <name>Days_to_Contract_Expiration_c__c</name>
     </fields>
     <fields>
-        <label><!-- Deal_Ancillary_Amount__c --></label>
-        <name>Deal_Ancillary_Amount_c__c</name>
+        <label><!-- Days_to_Submit__c --></label>
+        <name>Days_to_Submit_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Age_Days__c --></label>
+        <name>Deal_Age_Days_c__c</name>
     </fields>
     <fields>
         <label><!-- Deal_Approved_Date__c --></label>
         <name>Deal_Approved_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Assignment_Instruction__c --></label>
+        <name>Deal_Assignment_Instruction_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Created_Date_Time__c --></label>
+        <name>Deal_Created_Date_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Expiration_Date__c --></label>
+        <name>Deal_Expiration_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Expiration_Timeframe__c --></label>
+        <name>Deal_Expiration_Timeframe_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Extension_Count__c --></label>
+        <name>Deal_Extension_Count_c__c</name>
     </fields>
     <fields>
         <label><!-- Deal_Forward__c --></label>
@@ -302,6 +721,30 @@
         <name>Deal_ID_c__c</name>
     </fields>
     <fields>
+        <label><!-- Deal_Reg_Oppty__c --></label>
+        <name>Deal_Reg_Oppty_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Registration_Recommendation__c --></label>
+        <name>Deal_Registration_Recommendation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Registration_Reviewer__c --></label>
+        <name>Deal_Registration_Reviewer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Registration_Reviewer__c_grax_xf_us --></label>
+        <name>Deal_Registration_Reviewer_c_grax_xf_use__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Registration_Status__c --></label>
+        <name>Deal_Registration_Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal_Score__c --></label>
+        <name>Deal_Score_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Deal_Slowing__c --></label>
         <name>Deal_Slowing_c__c</name>
     </fields>
@@ -310,48 +753,504 @@
         <name>Deal_Source_c__c</name>
     </fields>
     <fields>
+        <label><!-- Deal_Type__c --></label>
+        <name>Deal_Type_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Deal_boosting__c --></label>
         <name>Deal_boosting_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Decision_Criteria__c --></label>
+        <name>Decision_Criteria_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Decision_Date__c --></label>
+        <name>Decision_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Decision_Process__c --></label>
+        <name>Decision_Process_c__c</name>
     </fields>
     <fields>
         <label><!-- Decision_Role__c --></label>
         <name>Decision_Role_c__c</name>
     </fields>
     <fields>
+        <label><!-- Deferred_Revenue__c --></label>
+        <name>Deferred_Revenue_c__c</name>
+    </fields>
+    <fields>
         <label><!-- DeliveryInstallationStatus__c --></label>
         <name>DeliveryInstallationStatus_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Delivery_Date__c --></label>
+        <name>Delivery_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DellStar_Services__c --></label>
+        <name>DellStar_Services_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Name1__c --></label>
+        <name>Dell_Asset_RMA_Account_Name1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_Area__c --></label>
+        <name>Dell_Asset_RMA_Account_Owner_Area_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_Country__c --></label>
+        <name>Dell_Asset_RMA_Account_Owner_Country_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_District__ --></label>
+        <name>Dell_Asset_RMA_Account_Owner_District_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_Division__ --></label>
+        <name>Dell_Asset_RMA_Account_Owner_Division_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_Region__c --></label>
+        <name>Dell_Asset_RMA_Account_Owner_Region_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_Owner_Super_Area --></label>
+        <name>Dell_Asset_RMA_Account_Owner_Super_Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Account_TheaterText__c --></label>
+        <name>Dell_Asset_RMA_Account_TheaterText_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Area_Manager__c --></label>
+        <name>Dell_Asset_RMA_Area_Manager_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Asset_Count__c --></label>
+        <name>Dell_Asset_RMA_Asset_Count_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Asset_Ids__c --></label>
+        <name>Dell_Asset_RMA_Asset_Ids_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Assets_Serial_Number__c --></label>
+        <name>Dell_Asset_RMA_Assets_Serial_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__BRS_Product_Forecast__c --></label>
+        <name>Dell_Asset_RMA_BRS_Product_Forecast_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__BRS_Total_Forecast_Amoun --></label>
+        <name>Dell_Asset_RMA_BRS_Total_Forecast_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Booked_Opportunity__c --></label>
+        <name>Dell_Asset_RMA_Booked_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Booking_Certificate__c --></label>
+        <name>Dell_Asset_RMA_Booking_Certificate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__CORE_DPAD_Product_Foreca --></label>
+        <name>Dell_Asset_RMA_CORE_DPAD_Product_Forecas__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Capacity_Purchased_in_TB --></label>
+        <name>Dell_Asset_RMA_Capacity_Purchased_in_TBs__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Champion_EMC__c --></label>
+        <name>Dell_Asset_RMA_Champion_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Close_Comments__c --></label>
+        <name>Dell_Asset_RMA_Close_Comments_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Closed_Reason_Action__c --></label>
+        <name>Dell_Asset_RMA_Closed_Reason_Action_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Closed_Reason__c --></label>
+        <name>Dell_Asset_RMA_Closed_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor_Lost_To_EMC__ --></label>
+        <name>Dell_Asset_RMA_Competitor_Lost_To_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor_Lost_To_Produ --></label>
+        <name>Dell_Asset_RMA_Competitor_Lost_To_Produc__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor_Not_Listed_Hi --></label>
+        <name>Dell_Asset_RMA_Competitor_Not_Listed_Hid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor_Product_ID__c --></label>
+        <name>Dell_Asset_RMA_Competitor_Product_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor_Product__c --></label>
+        <name>Dell_Asset_RMA_Competitor_Product_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Competitor__c --></label>
+        <name>Dell_Asset_RMA_Competitor_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Confirm_Years_of_Support --></label>
+        <name>Dell_Asset_RMA_Confirm_Years_of_Support__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Core_Product_Forecast__c --></label>
+        <name>Dell_Asset_RMA_Core_Product_Forecast_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Country__c --></label>
+        <name>Dell_Asset_RMA_Country_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Create_Competitor_Asset_ --></label>
+        <name>Dell_Asset_RMA_Create_Competitor_Asset_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Deal_Reg_Oppty_EMC__c --></label>
+        <name>Dell_Asset_RMA_Deal_Reg_Oppty_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Deal_Situation__c --></label>
+        <name>Dell_Asset_RMA_Deal_Situation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Decision_Criteria_EMC__c --></label>
+        <name>Dell_Asset_RMA_Decision_Criteria_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Decision_Process_EMC__c --></label>
+        <name>Dell_Asset_RMA_Decision_Process_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Distributor_In_Origin_Co --></label>
+        <name>Dell_Asset_RMA_Distributor_In_Origin_Cou__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__District_Manager__c --></label>
+        <name>Dell_Asset_RMA_District_Manager_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Dollar_Amount__c --></label>
+        <name>Dell_Asset_RMA_Dollar_Amount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Duplicate_Opportunity__c --></label>
+        <name>Dell_Asset_RMA_Duplicate_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Duplicate_Opportunity__c --></label>
+        <name>Dell_Asset_RMA_Duplicate_Opportunity_c_g__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Economic_Buyer__c --></label>
+        <name>Dell_Asset_RMA_Economic_Buyer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Expiration_Date_new__c --></label>
+        <name>Dell_Asset_RMA_Expiration_Date_new_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__GPS_Theater__c --></label>
+        <name>Dell_Asset_RMA_GPS_Theater_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Identify_Pain__c --></label>
+        <name>Dell_Asset_RMA_Identify_Pain_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__MEDDIC_Counter__c --></label>
+        <name>Dell_Asset_RMA_MEDDIC_Counter_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__MEDDIC_Last_Updated_By__ --></label>
+        <name>Dell_Asset_RMA_MEDDIC_Last_Updated_By_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__MEDDIC_Last_Updated__c --></label>
+        <name>Dell_Asset_RMA_MEDDIC_Last_Updated_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Metrics_EMC__c --></label>
+        <name>Dell_Asset_RMA_Metrics_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__OEM_Partner_Tracking__c --></label>
+        <name>Dell_Asset_RMA_OEM_Partner_Tracking_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__OEM_Partner__c --></label>
+        <name>Dell_Asset_RMA_OEM_Partner_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Opportunity_Closed_Date_ --></label>
+        <name>Dell_Asset_RMA_Opportunity_Closed_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Opportunity_Number__c --></label>
+        <name>Dell_Asset_RMA_Opportunity_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Opportunity_Type__c --></label>
+        <name>Dell_Asset_RMA_Opportunity_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Partner__c --></label>
+        <name>Dell_Asset_RMA_Partner_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Product_Model__c --></label>
+        <name>Dell_Asset_RMA_Product_Model_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Products__c --></label>
+        <name>Dell_Asset_RMA_Products_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Quote_Amount__c --></label>
+        <name>Dell_Asset_RMA_Quote_Amount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Quote_Cart_Number__c --></label>
+        <name>Dell_Asset_RMA_Quote_Cart_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Re_Registration_Reason__ --></label>
+        <name>Dell_Asset_RMA_Re_Registration_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Re_Registration_Required --></label>
+        <name>Dell_Asset_RMA_Re_Registration_Required__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Related_Deal_Registratio --></label>
+        <name>Dell_Asset_RMA_Related_Deal_Registration__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__SDS_Amount__c --></label>
+        <name>Dell_Asset_RMA_SDS_Amount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__SO_Number__c --></label>
+        <name>Dell_Asset_RMA_SO_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Sales_Channel_EMC__c --></label>
+        <name>Dell_Asset_RMA_Sales_Channel_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Sales_Force__c --></label>
+        <name>Dell_Asset_RMA_Sales_Force_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Tier_2_Partner__c --></label>
+        <name>Dell_Asset_RMA_Tier_2_Partner_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__TrackingNumber__c --></label>
+        <name>Dell_Asset_RMA_TrackingNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__Under_Pen_Account_Type__ --></label>
+        <name>Dell_Asset_RMA_Under_Pen_Account_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__bypass_validation__c --></label>
+        <name>Dell_Asset_RMA_bypass_validation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__close_Date_Greater_than_ --></label>
+        <name>Dell_Asset_RMA_close_Date_Greater_than_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Asset_RMA__of_Related_Assets__c --></label>
+        <name>Dell_Asset_RMA_of_Related_Assets_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Defined_Industry__c --></label>
+        <name>Dell_Defined_Industry_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Defined_LOB__c --></label>
+        <name>Dell_Defined_LOB_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_EMC_Consulting_Boomi_Update__c --></label>
+        <name>Dell_EMC_Consulting_Boomi_Update_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_EMC_s_Unique_Value_Why_Dell_EMC__c --></label>
+        <name>Dell_EMC_s_Unique_Value_Why_Dell_EMC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Sales_FIM__Inventory_Request__c --></label>
+        <name>Dell_Sales_FIM_Inventory_Request_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Sales_FIM__Inventory_Request__c_gra --></label>
+        <name>Dell_Sales_FIM_Inventory_Request_c_grax__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Services_Opportunity_Source__c --></label>
+        <name>Dell_Services_Opportunity_Source_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Systems_and_Services__c --></label>
+        <name>Dell_Systems_and_Services_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Delta_bet_Customer_Req_n_Calculated__c --></label>
+        <name>Delta_bet_Customer_Req_n_Calculated_c__c</name>
     </fields>
     <fields>
         <label><!-- Demo_Presentation_Date__c --></label>
         <name>Demo_Presentation_Date_c__c</name>
     </fields>
     <fields>
+        <label><!-- Description_Last_Modified_By__c --></label>
+        <name>Description_Last_Modified_By_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description_Last_Modified_By__c_grax_xf_ --></label>
+        <name>Description_Last_Modified_By_c_grax_xf_u__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description_Last_Modified_Date__c --></label>
+        <name>Description_Last_Modified_Date_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Description --></label>
         <name>Description__c</name>
     </fields>
     <fields>
-        <label><!-- Direct_to_Customer_Sale__c --></label>
-        <name>Direct_to_Customer_Sale_c__c</name>
+        <label><!-- Direct_Team_Sync__c --></label>
+        <name>Direct_Team_Sync_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Direct_Trailer_Opportunity__c --></label>
+        <name>Direct_Trailer_Opportunity_c__c</name>
     </fields>
     <fields>
         <label><!-- Discount_Approved__c --></label>
         <name>Discount_Approved_c__c</name>
     </fields>
     <fields>
-        <label><!-- Discount__c_GRAX_float --></label>
-        <name>Discount_c_GRAX_float__c</name>
+        <label><!-- Discount_Percentage__c --></label>
+        <name>Discount_Percentage_c__c</name>
     </fields>
     <fields>
         <label><!-- Discount__c --></label>
         <name>Discount_c__c</name>
     </fields>
     <fields>
+        <label><!-- Distributor_Direct_Reseller_APID__c --></label>
+        <name>Distributor_Direct_Reseller_APID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Direct_Reseller_Account__c --></label>
+        <name>Distributor_Direct_Reseller_Account_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Direct_Reseller_Account__c_g --></label>
+        <name>Distributor_Direct_Reseller_Account_c_gr__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_ID__c --></label>
+        <name>Distributor_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Name__c --></label>
+        <name>Distributor_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Acc_Relationship__c --></label>
+        <name>Distributor_Reseller_Acc_Relationship_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Account_Owner_Email --></label>
+        <name>Distributor_Reseller_Account_Owner_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Account_UCID__c --></label>
+        <name>Distributor_Reseller_Account_UCID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Affinity_ID__c --></label>
+        <name>Distributor_Reseller_Affinity_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Name__c --></label>
+        <name>Distributor_Reseller_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Name__c_grax_xf_acc --></label>
+        <name>Distributor_Reseller_Name_c_grax_xf_acco__c</name>
+    </fields>
+    <fields>
+        <label><!-- Distributor_Reseller_Sales_Motion__c --></label>
+        <name>Distributor_Reseller_Sales_Motion_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Distributor__c --></label>
         <name>Distributor_c__c</name>
     </fields>
     <fields>
-        <label><!-- ED_Close_Date_Delta__c_GRAX_float --></label>
-        <name>ED_Close_Date_Delta_c_GRAX_float__c</name>
+        <label><!-- DistributorandReseller_Name__c --></label>
+        <name>DistributorandReseller_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Do_you_want_to_pursue_Ocean__c --></label>
+        <name>Do_you_want_to_pursue_Ocean_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Document_Name_1__c --></label>
+        <name>Document_Name_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Document_Name_2__c --></label>
+        <name>Document_Name_2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Document_URL_1__c --></label>
+        <name>Document_URL_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Document_URL_2__c --></label>
+        <name>Document_URL_2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Does_Presales_have_the_solutions_to_win_ --></label>
+        <name>Does_Presales_have_the_solutions_to_win__c</name>
+    </fields>
+    <fields>
+        <label><!-- Domain__c --></label>
+        <name>Domain_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Down_Selected__c --></label>
+        <name>Down_Selected_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Driving_Solution__c --></label>
+        <name>Driving_Solution_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Duplicate_Opportunity_ID__c --></label>
+        <name>Duplicate_Opportunity_ID_c__c</name>
     </fields>
     <fields>
         <label><!-- ED_Close_Date_Delta__c --></label>
@@ -374,6 +1273,134 @@
         <name>ED_Prescription_c__c</name>
     </fields>
     <fields>
+        <label><!-- ELA_TLA__c --></label>
+        <name>ELA_TLA_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Account_Manager_Email__c --></label>
+        <name>EMC_Account_Manager_Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Account_Manager_Name__c --></label>
+        <name>EMC_Account_Manager_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Account_Manager_Phone__c --></label>
+        <name>EMC_Account_Manager_Phone_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Cloned_Parent_ID__c --></label>
+        <name>EMC_Cloned_Parent_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Deal_Registration_Number__c --></label>
+        <name>EMC_Deal_Registration_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Dedicated_Account__c --></label>
+        <name>EMC_Dedicated_Account_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Forecast_Category__c --></label>
+        <name>EMC_Forecast_Category_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Forecast_Status__c --></label>
+        <name>EMC_Forecast_Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_ID_Opp__c --></label>
+        <name>EMC_ID_Opp_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Opportunity_Amount__c --></label>
+        <name>EMC_Opportunity_Amount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Opportunity_ID__c --></label>
+        <name>EMC_Opportunity_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Opportunity_Number__c --></label>
+        <name>EMC_Opportunity_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Opportunity_updated__c --></label>
+        <name>EMC_Opportunity_updated_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Partner_Account_Name__c --></label>
+        <name>EMC_Partner_Account_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Partner_Account_UCID__c --></label>
+        <name>EMC_Partner_Account_UCID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Product_Flag__c --></label>
+        <name>EMC_Product_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Sales_Channel__c --></label>
+        <name>EMC_Sales_Channel_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Sales_Force__c --></label>
+        <name>EMC_Sales_Force_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Sales_Motion__c --></label>
+        <name>EMC_Sales_Motion_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_Sync_Time_Reporting__c --></label>
+        <name>EMC_Sync_Time_Reporting_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_UCID_RTM__c --></label>
+        <name>EMC_UCID_RTM_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMC_minutes_in_current_sync_status__c --></label>
+        <name>EMC_minutes_in_current_sync_status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EMEA_QUEUE__c --></label>
+        <name>EMEA_QUEUE_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EOL_0_Day_Email_Notification__c --></label>
+        <name>EOL_0_Day_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EOL_15_Day_Email_Notification__c --></label>
+        <name>EOL_15_Day_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EOL_1_Day_Email_Notification__c --></label>
+        <name>EOL_1_Day_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EOL_30_Day_Email_Notification__c --></label>
+        <name>EOL_30_Day_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EOL_7_Day_Email_Notification__c --></label>
+        <name>EOL_7_Day_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Earliest_Delivery_Date__c --></label>
+        <name>Earliest_Delivery_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Economic_Buyers__c --></label>
+        <name>Economic_Buyers_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Eligible_for_Ocean__c --></label>
+        <name>Eligible_for_Ocean_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Email_Body__c --></label>
         <name>Email_Body_c__c</name>
     </fields>
@@ -382,25 +1409,192 @@
         <name>Email_Subject_c__c</name>
     </fields>
     <fields>
+        <label><!-- End_Customer_Contact__c --></label>
+        <name>End_Customer_Contact_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Customer_Contact__c_grax_xf_end_cust --></label>
+        <name>End_Customer_Contact_c_grax_xf_end_custo__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Customer_Selection__c --></label>
+        <name>End_Customer_Selection_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Customer__c --></label>
+        <name>End_Customer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Customer__c_grax_xf_end_customer__c --></label>
+        <name>End_Customer_c_grax_xf_end_customer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Account_Department__c --></label>
+        <name>End_User_Account_Department_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Account_ID__c --></label>
+        <name>End_User_Account_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Account_Industry__c --></label>
+        <name>End_User_Account_Industry_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Account_Name__c --></label>
+        <name>End_User_Account_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Email__c --></label>
+        <name>End_User_Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Fax__c --></label>
+        <name>End_User_Fax_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_First_Name__c --></label>
+        <name>End_User_First_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Last_Name__c --></label>
+        <name>End_User_Last_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mailing_City__c --></label>
+        <name>End_User_Mailing_City_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mailing_Country__c --></label>
+        <name>End_User_Mailing_Country_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mailing_State_Province_Region__ --></label>
+        <name>End_User_Mailing_State_Province_Region_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mailing_Street__c --></label>
+        <name>End_User_Mailing_Street_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mailing_Zip_Postal_Code__c --></label>
+        <name>End_User_Mailing_Zip_Postal_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Mobile__c --></label>
+        <name>End_User_Mobile_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Phone__c --></label>
+        <name>End_User_Phone_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Registration_Tax_Code__c --></label>
+        <name>End_User_Registration_Tax_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Segment__c --></label>
+        <name>End_User_Segment_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Title__c --></label>
+        <name>End_User_Title_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_User_Website_URL_Address__c --></label>
+        <name>End_User_Website_URL_Address_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Engage_Channel_Opportunity__c --></label>
+        <name>Engage_Channel_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Engage_Channel_Rejection_Reason__c --></label>
+        <name>Engage_Channel_Rejection_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Engage_Channel_Status__c --></label>
+        <name>Engage_Channel_Status_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Engage_Legal__c --></label>
         <name>Engage_Legal_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Engagement_Type__c --></label>
+        <name>Engagement_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- English_Queue__c --></label>
+        <name>English_Queue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enterprise_Campaign_Event_Name__c --></label>
+        <name>Enterprise_Campaign_Event_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enterprise_Campaign_ID__c --></label>
+        <name>Enterprise_Campaign_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enterprise_Sales_Approval_Requested__c --></label>
+        <name>Enterprise_Sales_Approval_Requested_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Error_Description__c --></label>
+        <name>Error_Description_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Estimated_Monthly_Revenue__c --></label>
+        <name>Estimated_Monthly_Revenue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Example_Deal_Reg_1__c --></label>
+        <name>Example_Deal_Reg_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Example_Deal_Reg__c --></label>
+        <name>Example_Deal_Reg_c__c</name>
     </fields>
     <fields>
         <label><!-- Exec_Meeting__c --></label>
         <name>Exec_Meeting_c__c</name>
     </fields>
     <fields>
+        <label><!-- Existing_Services_Customer__c --></label>
+        <name>Existing_Services_Customer_c__c</name>
+    </fields>
+    <fields>
         <label><!-- ExpectedRevenue --></label>
         <name>ExpectedRevenue__c</name>
     </fields>
     <fields>
-        <label><!-- External Account --></label>
-        <name>External_Account__c</name>
-        <relationshipLabel><!-- graxopportunityindex --></relationshipLabel>
+        <label><!-- Extend_Deal__c --></label>
+        <name>Extend_Deal_c__c</name>
     </fields>
     <fields>
         <label><!-- External_ID__c --></label>
         <name>External_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- FED_Account_Refer__c --></label>
+        <name>FED_Account_Refer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- FED_Opportunity_ID__c --></label>
+        <name>FED_Opportunity_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- FED_SEWP_opportunity__c --></label>
+        <name>FED_SEWP_opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Final_Download_Date__c --></label>
+        <name>Final_Download_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Finance_person_who_approved_email__c --></label>
+        <name>Finance_person_who_approved_email_c__c</name>
     </fields>
     <fields>
         <label><!-- FiscalQuarter --></label>
@@ -409,6 +1603,26 @@
     <fields>
         <label><!-- FiscalYear --></label>
         <name>FiscalYear__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fiscal_Book_Date__c --></label>
+        <name>Fiscal_Book_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fiscal_Quarter__c --></label>
+        <name>Fiscal_Quarter_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fiscal_Week__c --></label>
+        <name>Fiscal_Week_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fiscal_Year_Start_Date__c --></label>
+        <name>Fiscal_Year_Start_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fiscal_Year__c --></label>
+        <name>Fiscal_Year_c__c</name>
     </fields>
     <fields>
         <label><!-- Fiscal --></label>
@@ -423,6 +1637,22 @@
         <name>ForecastCategory__c</name>
     </fields>
     <fields>
+        <label><!-- Forecast_Category_Override_Applied__c --></label>
+        <name>Forecast_Category_Override_Applied_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Forecast_Category_Override__c --></label>
+        <name>Forecast_Category_Override_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Forecast_Category_RO__c --></label>
+        <name>Forecast_Category_RO_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Forecasted_Units_myDealOppty__c --></label>
+        <name>Forecasted_Units_myDealOppty_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Forwarded_Lead_ID__c --></label>
         <name>Forwarded_Lead_ID_c__c</name>
     </fields>
@@ -435,10 +1665,6 @@
         <name>GRAXTaskFlag2_c__c</name>
     </fields>
     <fields>
-        <label><!-- GRAXTaskFlag__c --></label>
-        <name>GRAXTaskFlag_c__c</name>
-    </fields>
-    <fields>
         <label><!-- GRAX_Execution_Unique_Key --></label>
         <name>GRAX_Execution_Unique_Key__c</name>
     </fields>
@@ -447,28 +1673,28 @@
         <name>GRAX_Execution_Unique_Keys__c</name>
     </fields>
     <fields>
-        <label><!-- GRAX_GROSS_Monthly_Revenue__c --></label>
-        <name>GRAX_GROSS_Monthly_Revenue_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- GRAX_GROSS_Total_Revenue__c --></label>
-        <name>GRAX_GROSS_Total_Revenue_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- GRAX_Max_Term__c --></label>
-        <name>GRAX_Max_Term_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- GRAX_Net_Monthly_Revenue__c --></label>
-        <name>GRAX_Net_Monthly_Revenue_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- GRAX_Services_Revenue__c --></label>
-        <name>GRAX_Services_Revenue_c__c</name>
-    </fields>
-    <fields>
         <label><!-- GRAX_Version --></label>
         <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- GTM_Message__c --></label>
+        <name>GTM_Message_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- GTM_Model__c --></label>
+        <name>GTM_Model_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Generate_Trial_License__c --></label>
+        <name>Generate_Trial_License_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Governance_Type__c --></label>
+        <name>Governance_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- HasDetailsExtraRecord__c --></label>
+        <name>HasDetailsExtraRecord_c__c</name>
     </fields>
     <fields>
         <label><!-- HasOpenActivity --></label>
@@ -495,8 +1721,8 @@
         <name>Has_Collaboration_App_c__c</name>
     </fields>
     <fields>
-        <label><!-- Has_GRAX_Product__c --></label>
-        <name>Has_GRAX_Product_c__c</name>
+        <label><!-- Has_Enterprise_Solution_Group__c --></label>
+        <name>Has_Enterprise_Solution_Group_c__c</name>
     </fields>
     <fields>
         <label><!-- Has_Gold_Level_Service__c --></label>
@@ -507,20 +1733,60 @@
         <name>Has_Mobile_App_c__c</name>
     </fields>
     <fields>
-        <label><!-- Heroku_SLUG_ID__c --></label>
-        <name>Heroku_SLUG_ID_c__c</name>
+        <label><!-- Has_Quote_in_Products__c --></label>
+        <name>Has_Quote_in_Products_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Highest_Stage__c --></label>
+        <name>Highest_Stage_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- How_many_shipments__c --></label>
+        <name>How_many_shipments_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hybrid_Cloud__c --></label>
+        <name>Hybrid_Cloud_c__c</name>
     </fields>
     <fields>
         <label><!-- Id --></label>
         <name>Id__c</name>
     </fields>
     <fields>
+        <label><!-- Identify_Value_Drivers__c --></label>
+        <name>Identify_Value_Drivers_c__c</name>
+    </fields>
+    <fields>
         <label><!-- Implementation_Start__c --></label>
         <name>Implementation_Start_c__c</name>
     </fields>
     <fields>
+        <label><!-- In_Quarter_Revenue__c --></label>
+        <name>In_Quarter_Revenue_c__c</name>
+    </fields>
+    <fields>
         <label><!-- IndStatus__c --></label>
         <name>IndStatus_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Indirect_Partner_APID__c --></label>
+        <name>Indirect_Partner_APID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Indirect_Partner_Account__c --></label>
+        <name>Indirect_Partner_Account_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Indirect_Partner_Account__c_grax_xf_acco --></label>
+        <name>Indirect_Partner_Account_c_grax_xf_accou__c</name>
+    </fields>
+    <fields>
+        <label><!-- Initiate_Governance_Approval__c --></label>
+        <name>Initiate_Governance_Approval_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Integrated_Pursuit__c --></label>
+        <name>Integrated_Pursuit_c__c</name>
     </fields>
     <fields>
         <label><!-- Interactive_Demo__c --></label>
@@ -563,6 +1829,86 @@
         <name>IsWon__c</name>
     </fields>
     <fields>
+        <label><!-- Is_CFI_included__c --></label>
+        <name>Is_CFI_included_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_Closing_This_Week__c --></label>
+        <name>Is_Closing_This_Week_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_New_Customer__c --></label>
+        <name>Is_New_Customer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_close_date_changed__c --></label>
+        <name>Is_close_date_changed_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_it_a_VCE_deal__c --></label>
+        <name>Is_it_a_VCE_deal_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_it_a_VMware_related_solution__c --></label>
+        <name>Is_it_a_VMware_related_solution_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_it_crossborder_deal__c --></label>
+        <name>Is_it_crossborder_deal_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_the_Customer_Part_of_a_Larger_Group__ --></label>
+        <name>Is_the_Customer_Part_of_a_Larger_Group_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_this_a_Hosting_Opportunity__c --></label>
+        <name>Is_this_a_Hosting_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_this_a_Tech_Refresh__c --></label>
+        <name>Is_this_a_Tech_Refresh_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Justification_Statement__c --></label>
+        <name>Justification_Statement_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LATAM_QUEUE__c --></label>
+        <name>LATAM_QUEUE_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LBI__LatticeAccountName__c --></label>
+        <name>LBI_LatticeAccountName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LBI__TotalOpenLatticeRecommendations__c --></label>
+        <name>LBI_TotalOpenLatticeRecommendations_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOT_Large_Opportunity_Potential__c --></label>
+        <name>LOT_Large_Opportunity_Potential_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOT_Large_Opportunity__c --></label>
+        <name>LOT_Large_Opportunity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOT_Mandatory_Fields__c --></label>
+        <name>LOT_Mandatory_Fields_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOT_OCEAN_Email_Notification__c --></label>
+        <name>LOT_OCEAN_Email_Notification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOT_OCEAN_Field_Changes__c --></label>
+        <name>LOT_OCEAN_Field_Changes_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Language__c --></label>
+        <name>Language_c__c</name>
+    </fields>
+    <fields>
         <label><!-- LastActivityDate --></label>
         <name>LastActivityDate__c</name>
     </fields>
@@ -579,8 +1925,8 @@
         <name>LastModifiedById_grax_xf_user__c</name>
     </fields>
     <fields>
-        <label><!-- LastModifiedBy_Name --></label>
-        <name>LastModifiedBy_Name__c</name>
+        <label><!-- LastModifiedBy_EMC_Integration_User__c --></label>
+        <name>LastModifiedBy_EMC_Integration_User_c__c</name>
     </fields>
     <fields>
         <label><!-- LastModifiedDate --></label>
@@ -615,6 +1961,22 @@
         <name>Last_Activity_Type_c__c</name>
     </fields>
     <fields>
+        <label><!-- Latest_Delivery_Date__c --></label>
+        <name>Latest_Delivery_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Latest_product_id__c --></label>
+        <name>Latest_product_id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lattice_PreLead_External_ID__c --></label>
+        <name>Lattice_PreLead_External_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lattice_Source_Id__c --></label>
+        <name>Lattice_Source_Id_c__c</name>
+    </fields>
+    <fields>
         <label><!-- LeadSource --></label>
         <name>LeadSource__c</name>
     </fields>
@@ -623,541 +1985,28 @@
         <name>License_Term_c__c</name>
     </fields>
     <fields>
-        <label><!-- MainCompetitors__c --></label>
-        <name>MainCompetitors_c__c</name>
+        <label><!-- Linked_Opportunity__c --></label>
+        <name>Linked_Opportunity_c__c</name>
     </fields>
     <fields>
-        <label><!-- Margin__c_GRAX_float --></label>
-        <name>Margin_c_GRAX_float__c</name>
+        <label><!-- Location_APJ__c --></label>
+        <name>Location_APJ_c__c</name>
     </fields>
     <fields>
-        <label><!-- Margin__c --></label>
-        <name>Margin_c__c</name>
+        <label><!-- Location_EMEA__c --></label>
+        <name>Location_EMEA_c__c</name>
     </fields>
     <fields>
-        <label><!-- MayEdit --></label>
-        <name>MayEdit__c</name>
+        <label><!-- Location_LATAM__c --></label>
+        <name>Location_LATAM_c__c</name>
     </fields>
     <fields>
-        <label><!-- Name --></label>
-        <name>Name__c</name>
+        <label><!-- Location_NAMER__c --></label>
+        <name>Location_NAMER_c__c</name>
     </fields>
     <fields>
-        <label><!-- Name_of_Contact__c --></label>
-        <name>Name_of_Contact_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- NextStep --></label>
-        <name>NextStep__c</name>
-    </fields>
-    <fields>
-        <label><!-- No_Communication__c --></label>
-        <name>No_Communication_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Number_of_Products__c --></label>
-        <name>Number_of_Products_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Onboarding_Case__c --></label>
-        <name>Onboarding_Case_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Opportunity_Product_Names__c --></label>
-        <name>Opportunity_Product_Names_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- OrderNumber__c --></label>
-        <name>OrderNumber_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- OwnerId --></label>
-        <name>OwnerId__c</name>
-    </fields>
-    <fields>
-        <label><!-- OwnerId_grax_xf_user --></label>
-        <name>OwnerId_grax_xf_user__c</name>
-    </fields>
-    <fields>
-        <label><!-- Owner_Name --></label>
-        <name>Owner_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- Parent_Opportunity__c --></label>
-        <name>Parent_Opportunity_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- PartnerAccountId --></label>
-        <name>PartnerAccountId__c</name>
-    </fields>
-    <fields>
-        <label><!-- PartnerAccountId_grax_xf_account --></label>
-        <name>PartnerAccountId_grax_xf_account__c</name>
-    </fields>
-    <fields>
-        <label><!-- PartnerAccount_Name --></label>
-        <name>PartnerAccount_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- Partner_Company_Name__c --></label>
-        <name>Partner_Company_Name_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Partner_Contact__c --></label>
-        <name>Partner_Contact_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Pricebook2Id --></label>
-        <name>Pricebook2Id__c</name>
-    </fields>
-    <fields>
-        <label><!-- Pricebook2Id_grax_xf_pricebook2 --></label>
-        <name>Pricebook2Id_grax_xf_pricebook2__c</name>
-    </fields>
-    <fields>
-        <label><!-- Pricebook2_Name --></label>
-        <name>Pricebook2_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- Primary_Contact__c --></label>
-        <name>Primary_Contact_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Primary_Contact__c_grax_xf_contact --></label>
-        <name>Primary_Contact_c_grax_xf_contact__c</name>
-    </fields>
-    <fields>
-        <label><!-- Primary_Contact__r_Name --></label>
-        <name>Primary_Contact_r_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- Probability --></label>
-        <name>Probability__c</name>
-    </fields>
-    <fields>
-        <label><!-- Products__c --></label>
-        <name>Products_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Budget__c_GRAX_float --></label>
-        <name>Project_Budget_c_GRAX_float__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Budget__c --></label>
-        <name>Project_Budget_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Budgeted__c --></label>
-        <name>Project_Budgeted_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Description__c --></label>
-        <name>Project_Description_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Manager_Contact__c --></label>
-        <name>Project_Manager_Contact_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Project_Name__c --></label>
-        <name>Project_Name_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Projected_Durations__c --></label>
-        <name>Projected_Durations_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Projected_Finish__c --></label>
-        <name>Projected_Finish_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Prospect_Unresponsive__c --></label>
-        <name>Prospect_Unresponsive_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Provision_Date__c --></label>
-        <name>Provision_Date_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Provisioned_Status__c --></label>
-        <name>Provisioned_Status_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Provisioned_old__c --></label>
-        <name>Provisioned_old_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Provisioning_Revoked__c --></label>
-        <name>Provisioning_Revoked_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Push_Counter__c_GRAX_float --></label>
-        <name>Push_Counter_c_GRAX_float__c</name>
-    </fields>
-    <fields>
-        <label><!-- Push_Counter__c --></label>
-        <name>Push_Counter_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Random_Number__c --></label>
-        <name>Random_Number_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Re_engaged__c --></label>
-        <name>Re_engaged_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Reason_Lost__c --></label>
-        <name>Reason_Lost_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- RecordTypeId --></label>
-        <name>RecordTypeId__c</name>
-    </fields>
-    <fields>
-        <label><!-- RecordTypeId_grax_xf_recordtype --></label>
-        <name>RecordTypeId_grax_xf_recordtype__c</name>
-    </fields>
-    <fields>
-        <label><!-- RecordType_Name --></label>
-        <name>RecordType_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- Registration_Expiration__c --></label>
-        <name>Registration_Expiration_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Salesforce_Amount__c --></label>
-        <name>Salesforce_Amount_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- SampleField__c --></label>
-        <name>SampleField_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- SampleTextField__c --></label>
-        <name>SampleTextField_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Slowing_Reason__c --></label>
-        <name>Slowing_Reason_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- StageName --></label>
-        <name>StageName__c</name>
-    </fields>
-    <fields>
-        <label><!-- StageSortOrder --></label>
-        <name>StageSortOrder__c</name>
-    </fields>
-    <fields>
-        <label><!-- Stalled_Opportunity__c --></label>
-        <name>Stalled_Opportunity_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Status_Value__c --></label>
-        <name>Status_Value_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- SyncedQuoteId --></label>
-        <name>SyncedQuoteId__c</name>
-    </fields>
-    <fields>
-        <label><!-- SyncedQuoteId_grax_xf_quote --></label>
-        <name>SyncedQuoteId_grax_xf_quote__c</name>
-    </fields>
-    <fields>
-        <label><!-- SyncedQuote_Name --></label>
-        <name>SyncedQuote_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- SystemModstamp --></label>
-        <name>SystemModstamp__c</name>
-    </fields>
-    <fields>
-        <label><!-- Task_Overdue__c --></label>
-        <name>Task_Overdue_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Territory2Id --></label>
-        <name>Territory2Id__c</name>
-    </fields>
-    <fields>
-        <label><!-- TestCurrencyField__c --></label>
-        <name>TestCurrencyField_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- TestPercentageField__c --></label>
-        <name>TestPercentageField_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Time_Consuming_Oppty__c --></label>
-        <name>Time_Consuming_Oppty_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- TopInsightId --></label>
-        <name>TopInsightId__c</name>
-    </fields>
-    <fields>
-        <label><!-- TotalOpportunityQuantity --></label>
-        <name>TotalOpportunityQuantity__c</name>
-    </fields>
-    <fields>
-        <label><!-- TrackingNumber__c --></label>
-        <name>TrackingNumber_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Type --></label>
-        <name>Type__c</name>
-    </fields>
-    <fields>
-        <label><!-- URLsrc__c --></label>
-        <name>URLsrc_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- View_Forwarded_Lead__c --></label>
-        <name>View_Forwarded_Lead_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Winning_Competitor__c --></label>
-        <name>Winning_Competitor_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- Winning_Unlikely__c --></label>
-        <name>Winning_Unlikely_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- analyticsdemo_batch_id__c --></label>
-        <name>analyticsdemo_batch_id_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- cv__c --></label>
-        <name>cv_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- formula_number__c --></label>
-        <name>formula_number_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- graxModifiedTime --></label>
-        <name>graxModifiedTime__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Account_Name --></label>
-        <name>grax_Account_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Campaign_Name --></label>
-        <name>grax_Campaign_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Case__r_CaseNumber --></label>
-        <name>grax_Case_r_CaseNumber__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Coaching__r_Name --></label>
-        <name>grax_Coaching_r_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Contract_ContractNumber --></label>
-        <name>grax_Contract_ContractNumber__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_CreatedBy_Name --></label>
-        <name>grax_CreatedBy_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax__CurrentGenerators__c --></label>
-        <name>grax_CurrentGenerators_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax__DeliveryInstallationStatus__c --></label>
-        <name>grax_DeliveryInstallationStatus_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_LastModifiedBy_Name --></label>
-        <name>grax_LastModifiedBy_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax__MainCompetitors__c --></label>
-        <name>grax_MainCompetitors_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax__OrderNumber__c --></label>
-        <name>grax_OrderNumber_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Owner_Name --></label>
-        <name>grax_Owner_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_PartnerAccount_Name --></label>
-        <name>grax_PartnerAccount_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Pricebook2_Name --></label>
-        <name>grax_Pricebook2_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_Primary_Contact__r_Name --></label>
-        <name>grax_Primary_Contact_r_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_RecordType_Name --></label>
-        <name>grax_RecordType_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_SyncedQuote_Name --></label>
-        <name>grax_SyncedQuote_Name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax__TrackingNumber__c --></label>
-        <name>grax_TrackingNumber_c__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_account_xf --></label>
-        <name>grax_account_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_accountid_name --></label>
-        <name>grax_accountid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_campaign_xf --></label>
-        <name>grax_campaign_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_campaignid_name --></label>
-        <name>grax_campaignid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_case__c_name --></label>
-        <name>grax_case_c_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_case_xf --></label>
-        <name>grax_case_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_coaching__c_name --></label>
-        <name>grax_coaching_c_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_connectionreceivedid_name --></label>
-        <name>grax_connectionreceivedid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_connectionsentid_name --></label>
-        <name>grax_connectionsentid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_contact_to_email__c_name --></label>
-        <name>grax_contact_to_email_c_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_contact_xf --></label>
-        <name>grax_contact_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_contract_xf --></label>
-        <name>grax_contract_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_contractid_name --></label>
-        <name>grax_contractid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_createdbyid_name --></label>
-        <name>grax_createdbyid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_lastmodifiedbyid_name --></label>
-        <name>grax_lastmodifiedbyid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_opportunity_name --></label>
-        <name>grax_opportunity_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_opportunity_xf --></label>
-        <name>grax_opportunity_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_ownerid_name --></label>
-        <name>grax_ownerid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_partneraccountid_name --></label>
-        <name>grax_partneraccountid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_pricebook2_xf --></label>
-        <name>grax_pricebook2_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_pricebook2id_name --></label>
-        <name>grax_pricebook2id_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_primary_contact__c_name --></label>
-        <name>grax_primary_contact_c_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_project_manager_contact__c_name --></label>
-        <name>grax_project_manager_contact_c_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_quote_xf --></label>
-        <name>grax_quote_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_recordtype_xf --></label>
-        <name>grax_recordtype_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_recordtypeid_name --></label>
-        <name>grax_recordtypeid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_syncedquoteid_name --></label>
-        <name>grax_syncedquoteid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_territory2id_name --></label>
-        <name>grax_territory2id_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_topinsightid_name --></label>
-        <name>grax_topinsightid_name__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_user_xf --></label>
-        <name>grax_user_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_workcoaching_xf --></label>
-        <name>grax_workcoaching_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- grax_xf --></label>
-        <name>grax_xf__c</name>
-    </fields>
-    <fields>
-        <label><!-- graxaccountindex --></label>
-        <name>graxaccountindex__c</name>
-        <relationshipLabel><!-- graxopportunityindex --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- graxid --></label>
-        <name>graxid__c</name>
-    </fields>
-    <fields>
-        <label><!-- graxorgid --></label>
-        <name>graxorgid__c</name>
-    </fields>
-    <fields>
-        <label><!-- of_Opp_Products__c --></label>
-        <name>of_Opp_Products_c__c</name>
+        <label><!-- LoggedIN_User__c --></label>
+        <name>LoggedIN_User_c__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
