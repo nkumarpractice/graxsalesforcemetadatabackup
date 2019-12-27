@@ -4344,6 +4344,26 @@
     },
     {
       "cascadeDelete": false,
+      "childSObject": "Interviewer__c",
+      "deprecatedAndHidden": false,
+      "field": "CreatedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
+      "childSObject": "Interviewer__c",
+      "deprecatedAndHidden": false,
+      "field": "LastModifiedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
       "childSObject": "KnowledgeableUser",
       "deprecatedAndHidden": false,
       "field": "UserId",
@@ -7255,6 +7275,26 @@
     {
       "cascadeDelete": false,
       "childSObject": "TaskStatus",
+      "deprecatedAndHidden": false,
+      "field": "LastModifiedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
+      "childSObject": "TenantSecret",
+      "deprecatedAndHidden": false,
+      "field": "CreatedById",
+      "junctionIdListNames": [],
+      "junctionReferenceTo": [],
+      "relationshipName": null,
+      "restrictedDelete": false
+    },
+    {
+      "cascadeDelete": false,
+      "childSObject": "TenantSecret",
       "deprecatedAndHidden": false,
       "field": "LastModifiedById",
       "junctionIdListNames": [],
@@ -20726,13 +20766,13 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/User/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/User/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "namedLayouts": "/services/data/v43.0/sobjects/User/describe/namedLayouts/{LayoutName}",
     "passwordUtilities": "/services/data/v43.0/sobjects/User/{ID}/password",
     "defaultValues": "/services/data/v43.0/sobjects/User/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/User/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/005/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/005/e",
     "quickActions": "/services/data/v43.0/sobjects/User/quickActions",
     "layouts": "/services/data/v43.0/sobjects/User/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/User"
