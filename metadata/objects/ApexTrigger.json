@@ -737,6 +737,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__ChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Idea"
         },
         {
@@ -766,6 +794,13 @@
           "label": null,
           "validFor": null,
           "value": "IndividualChangeEvent"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__ChangeEvent"
         },
         {
           "active": true,
