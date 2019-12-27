@@ -521,6 +521,13 @@
         {
           "active": true,
           "defaultValue": false,
+          "label": "Interviewer",
+          "validFor": null,
+          "value": "Interviewer__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
           "label": "Languages",
           "validFor": null,
           "value": "Languages__c"
