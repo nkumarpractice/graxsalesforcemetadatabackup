@@ -11,4 +11,5 @@
     <tabs>standard-Solution</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Interviewer__c</tabs>
 </CustomApplication>
