@@ -2066,6 +2066,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Group"
         },
         {
@@ -2171,6 +2199,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Interviewer__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "InvocableAction"
         },
         {
@@ -2256,6 +2291,13 @@
           "label": null,
           "validFor": null,
           "value": "LightningServiceMetrics"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LimitSnapshot"
         },
         {
           "active": true,
