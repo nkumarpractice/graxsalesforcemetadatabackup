@@ -825,6 +825,7 @@
       "referenceTo": [
         "Account",
         "Case",
+        "Interviewer__c",
         "Opportunity",
         "grax__GRAXQuery__c",
         "grax__GRAXSettings__c",
@@ -1184,11 +1185,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/ContactRequest/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/ContactRequest/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/ContactRequest/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/ContactRequest/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0Tz/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0Tz/e",
     "layouts": "/services/data/v43.0/sobjects/ContactRequest/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/ContactRequest"
   }
