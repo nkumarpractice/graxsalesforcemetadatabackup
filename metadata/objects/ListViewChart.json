@@ -1938,6 +1938,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Group"
         },
         {
@@ -2043,6 +2071,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Interviewer__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "InvocableAction"
         },
         {
@@ -2128,6 +2163,13 @@
           "label": null,
           "validFor": null,
           "value": "LightningServiceMetrics"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "LimitSnapshot"
         },
         {
           "active": true,
@@ -6453,6 +6495,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContentVersion.IsEncrypted"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContentVersion.IsLatest"
         },
         {
@@ -8658,6 +8707,90 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxaccountindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxaccountindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Idea.Body"
         },
         {
@@ -8995,6 +9128,76 @@
           "label": null,
           "validFor": null,
           "value": "Individual.SystemModstamp"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.CreatedById"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.CreatedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.IsDeleted"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastModifiedById"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastModifiedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastReferencedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastViewedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.Name"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.SystemModstamp"
         },
         {
           "active": true,
@@ -15340,6 +15543,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "ContentVersion.IsEncrypted"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "ContentVersion.IsLatest"
         },
         {
@@ -17545,6 +17755,90 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxaccountindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxaccountindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.DisplayUrl"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.ExternalId"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Idea.Body"
         },
         {
@@ -17882,6 +18176,76 @@
           "label": null,
           "validFor": null,
           "value": "Individual.SystemModstamp"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.CreatedById"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.CreatedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.Id"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.IsDeleted"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastModifiedById"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastModifiedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastReferencedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.LastViewedDate"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.Name"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c.SystemModstamp"
         },
         {
           "active": true,
