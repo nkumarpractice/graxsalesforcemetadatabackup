@@ -550,6 +550,7 @@
         "Case",
         "Contact",
         "Contract",
+        "Interviewer__c",
         "Lead",
         "Opportunity",
         "grax__GRAXQuery__c",
@@ -633,11 +634,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/CollaborationGroupRecord/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/CollaborationGroupRecord/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/CollaborationGroupRecord/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/CollaborationGroupRecord/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0Aa/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0Aa/e",
     "layouts": "/services/data/v43.0/sobjects/CollaborationGroupRecord/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/CollaborationGroupRecord"
   }
