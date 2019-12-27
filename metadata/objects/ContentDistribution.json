@@ -741,6 +741,7 @@
         "Case",
         "Contact",
         "EmailMessage",
+        "Interviewer__c",
         "Lead",
         "ListEmail",
         "Opportunity",
