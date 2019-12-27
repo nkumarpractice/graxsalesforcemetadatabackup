@@ -189,6 +189,7 @@
         "EmailMessage",
         "EmailTemplate",
         "Event",
+        "Interviewer__c",
         "Lead",
         "ListEmail",
         "MessagingSession",
@@ -207,7 +208,11 @@
         "grax__GRAX_Archive_Process__c",
         "grax__GRAX_Data_Record_Id__c",
         "grax__GRAX_Data_Record__c",
-        "grax__GRAX_Schedule_Process__c"
+        "grax__GRAX_Schedule_Process__c",
+        "graxaccountindex__x",
+        "graxcaseindex__x",
+        "graxcontactindex__x",
+        "graxopportunityindex__x"
       ],
       "relationshipName": "Parent",
       "relationshipOrder": null,
