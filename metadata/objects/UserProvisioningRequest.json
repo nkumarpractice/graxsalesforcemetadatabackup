@@ -1582,11 +1582,11 @@
     "compactLayouts": "/services/data/v43.0/sobjects/UserProvisioningRequest/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/UserProvisioningRequest/{ID}",
     "approvalLayouts": "/services/data/v43.0/sobjects/UserProvisioningRequest/describe/approvalLayouts",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/UserProvisioningRequest/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/UserProvisioningRequest/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0HP/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0HP/e",
     "layouts": "/services/data/v43.0/sobjects/UserProvisioningRequest/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/UserProvisioningRequest"
   }
