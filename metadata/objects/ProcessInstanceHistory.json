@@ -245,6 +245,7 @@
         "DuplicateRecordItem",
         "DuplicateRecordSet",
         "EmailMessage",
+        "Interviewer__c",
         "Lead",
         "MessagingEndUser",
         "MessagingSession",
