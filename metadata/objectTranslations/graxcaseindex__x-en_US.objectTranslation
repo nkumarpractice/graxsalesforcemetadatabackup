@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>graxcaseindex</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>graxcaseindex</value>
+    </caseValues>
+    <fields>
+        <label><!-- ACMC_Microsoft_Mutual_Support_Obligation --></label>
+        <name>ACMC_Microsoft_Mutual_Support_Obligation__c</name>
+    </fields>
+    <fields>
+        <label><!-- ACMC_Mutual_Obligation__c --></label>
+        <name>ACMC_Mutual_Obligation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ADClassification__c --></label>
+        <name>ADClassification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Accepted_time__c --></label>
+        <name>Accepted_time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Accidental_Damage_Probability__c --></label>
+        <name>Accidental_Damage_Probability_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Accidental_Damage__c --></label>
+        <name>Accidental_Damage_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountBUID__c --></label>
+        <name>AccountBUID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountId --></label>
+        <name>AccountId__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountId_grax_xf_account --></label>
+        <name>AccountId_grax_xf_account__c</name>
+    </fields>
+    <fields>
+        <label><!-- AccountName__c --></label>
+        <name>AccountName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Id__c --></label>
+        <name>Account_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Lookup2__c --></label>
+        <name>Account_Lookup2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Lookup2__c_grax_xf_account --></label>
+        <name>Account_Lookup2_c_grax_xf_account__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account_Type__c --></label>
+        <name>Account_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Additional_Contact_1__c --></label>
+        <name>Additional_Contact_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Additional_Contact_2__c --></label>
+        <name>Additional_Contact_2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Application_Context__c --></label>
+        <name>Application_Context_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ApprovalQueueName__c --></label>
+        <name>ApprovalQueueName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetId --></label>
+        <name>AssetId__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetId_grax_xf_asset --></label>
+        <name>AssetId_grax_xf_asset__c</name>
+    </fields>
+    <fields>
+        <label><!-- AssetServiceProviderName__c --></label>
+        <name>AssetServiceProviderName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Asset_Age__c --></label>
+        <name>Asset_Age_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Asset_Manufacturer__c --></label>
+        <name>Asset_Manufacturer_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Asset_Name__c --></label>
+        <name>Asset_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Asset_Serial__c --></label>
+        <name>Asset_Serial_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Authorized_By__c --></label>
+        <name>Authorized_By_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- BUID__c --></label>
+        <name>BUID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- BackupUser__c --></label>
+        <name>BackupUser_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Best_Prediction__c --></label>
+        <name>Best_Prediction_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- BusinessHoursId --></label>
+        <name>BusinessHoursId__c</name>
+    </fields>
+    <fields>
+        <label><!-- BusinessHoursId_grax_xf_businesshours --></label>
+        <name>BusinessHoursId_grax_xf_businesshours__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Chat_Order_Number__c --></label>
+        <name>CARE_Chat_Order_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Dell_Order_Number__c --></label>
+        <name>CARE_Dell_Order_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Email__c --></label>
+        <name>CARE_Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Issue_Sub_Type__c --></label>
+        <name>CARE_Issue_Sub_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Issue_Type__c --></label>
+        <name>CARE_Issue_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Order_BUID__c --></label>
+        <name>CARE_Order_BUID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Order__c --></label>
+        <name>CARE_Order_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Order__c_grax_xf_order --></label>
+        <name>CARE_Order_c_grax_xf_order__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Primary_Number__c --></label>
+        <name>CARE_Primary_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Resolution_Summary__c --></label>
+        <name>CARE_Resolution_Summary_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CARE_Secondary_Number__c --></label>
+        <name>CARE_Secondary_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CC_Tier_1__c --></label>
+        <name>CC_Tier_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Call_Outbound_Trails__c --></label>
+        <name>Call_Outbound_Trails_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseClassification__c --></label>
+        <name>CaseClassification_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseNumber --></label>
+        <name>CaseNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- CaseReferenceId__c --></label>
+        <name>CaseReferenceId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Age_Days__c --></label>
+        <name>Case_Age_Days_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Age_EA__c --></label>
+        <name>Case_Age_EA_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Age_Hours__c --></label>
+        <name>Case_Age_Hours_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Age__c --></label>
+        <name>Case_Age_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Backup__c --></label>
+        <name>Case_Backup_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Classification_List__c --></label>
+        <name>Case_Classification_List_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Closed__c --></label>
+        <name>Case_Closed_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Complexity__c --></label>
+        <name>Case_Complexity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Hours__c --></label>
+        <name>Case_Hours_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Originated_from_S360__c --></label>
+        <name>Case_Originated_from_S360_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Owner_User__c --></label>
+        <name>Case_Owner_User_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Queue__c --></label>
+        <name>Case_Queue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Source__c --></label>
+        <name>Case_Source_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Summary__c --></label>
+        <name>Case_Summary_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_Type__c --></label>
+        <name>Case_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Case_URL__c --></label>
+        <name>Case_URL_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ChatBot_Type__c --></label>
+        <name>ChatBot_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Check_Prediction__c --></label>
+        <name>Check_Prediction_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Class__c --></label>
+        <name>Class_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ClosedDate --></label>
+        <name>ClosedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- ClosedOnCreate --></label>
+        <name>ClosedOnCreate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Collaborate_Reason__c --></label>
+        <name>Collaborate_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Collaboration_Type__c --></label>
+        <name>Collaboration_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Comments --></label>
+        <name>Comments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company_Archive_Date__c --></label>
+        <name>Company_Archive_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CompletedDate__c --></label>
+        <name>CompletedDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Completed_By_Badge_Id__c --></label>
+        <name>Completed_By_Badge_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Completed_By__c --></label>
+        <name>Completed_By_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactCountryCode__c --></label>
+        <name>ContactCountryCode_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactEmail --></label>
+        <name>ContactEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactEmail__c --></label>
+        <name>ContactEmail_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactFax --></label>
+        <name>ContactFax__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactFirstName__c --></label>
+        <name>ContactFirstName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactHomePhoneType__c --></label>
+        <name>ContactHomePhoneType_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactHomePhone__c --></label>
+        <name>ContactHomePhone_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactId --></label>
+        <name>ContactId__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactId_grax_xf_contact --></label>
+        <name>ContactId_grax_xf_contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactLastName__c --></label>
+        <name>ContactLastName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactMobile --></label>
+        <name>ContactMobile__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactPhoneExtension__c --></label>
+        <name>ContactPhoneExtension_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContactPhone --></label>
+        <name>ContactPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact_1_Role__c --></label>
+        <name>Contact_1_Role_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact_2_Role__c --></label>
+        <name>Contact_2_Role_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact_Name__c --></label>
+        <name>Contact_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact_Role__c --></label>
+        <name>Contact_Role_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ContractType__c --></label>
+        <name>ContractType_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Controlled_Support_Strategy__c --></label>
+        <name>Controlled_Support_Strategy_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CountCase__c --></label>
+        <name>CountCase_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Count_of_incoming_message__c --></label>
+        <name>Count_of_incoming_message_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CoveoV2__VisitId__c --></label>
+        <name>CoveoV2_VisitId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CoveoV2__VisitorId__c --></label>
+        <name>CoveoV2_VisitorId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedByAlias --></label>
+        <name>CreatedByAlias__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById --></label>
+        <name>CreatedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedById_grax_xf_user --></label>
+        <name>CreatedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- CreatedDate --></label>
+        <name>CreatedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Created_By__c --></label>
+        <name>Created_By_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Current_Business_Impact__c --></label>
+        <name>Current_Business_Impact_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- CustomerType__c --></label>
+        <name>CustomerType_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Expectation__c --></label>
+        <name>Customer_Expectation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Follow_up__c --></label>
+        <name>Customer_Follow_up_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Number__c --></label>
+        <name>Customer_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Reference_Number__c --></label>
+        <name>Customer_Reference_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Temperature__c --></label>
+        <name>Customer_Temperature_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Waiting__c --></label>
+        <name>Customer_Waiting_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data_Loss_Impact__c --></label>
+        <name>Data_Loss_Impact_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data_Loss_Type__c --></label>
+        <name>Data_Loss_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date_Created__c --></label>
+        <name>Date_Created_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date_time_for_the_first_email__c --></label>
+        <name>Date_time_for_the_first_email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Order_Number1__c --></label>
+        <name>Dell_Order_Number1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dell_Support_Link__c --></label>
+        <name>Dell_Support_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- DeltaSR__c --></label>
+        <name>DeltaSR_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Delta_SR__c --></label>
+        <name>Delta_SR_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Description --></label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Disposition_Reason__c --></label>
+        <name>Disposition_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Due_Date__c --></label>
+        <name>Due_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Einstein_Chat_Update__c --></label>
+        <name>Einstein_Chat_Update_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Einstein_Task_Update__c --></label>
+        <name>Einstein_Task_Update_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Einstein_Title_Desc_Update__c --></label>
+        <name>Einstein_Title_Desc_Update_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Einstein_Update_Flag__c --></label>
+        <name>Einstein_Update_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email_Received__c --></label>
+        <name>Email_Received_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email_SL_Time__c --></label>
+        <name>Email_SL_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email_SL__c --></label>
+        <name>Email_SL_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Date__c --></label>
+        <name>End_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- End_Time__c --></label>
+        <name>End_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EngineeringReqNumber__c --></label>
+        <name>EngineeringReqNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EntitlementId --></label>
+        <name>EntitlementId__c</name>
+    </fields>
+    <fields>
+        <label><!-- EntitlementId_grax_xf_entitlement --></label>
+        <name>EntitlementId_grax_xf_entitlement__c</name>
+    </fields>
+    <fields>
+        <label><!-- Escalated_Image_Flag__c --></label>
+        <name>Escalated_Image_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Escalation_Source__c --></label>
+        <name>Escalation_Source_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Escalation__c --></label>
+        <name>Escalation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- EventsProcessedDate --></label>
+        <name>EventsProcessedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Exclude_Survey_Flag__c --></label>
+        <name>Exclude_Survey_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Explanation__c --></label>
+        <name>Explanation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- External_Escalation__c --></label>
+        <name>External_Escalation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- External_ID__c --></label>
+        <name>External_ID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Extra1__c --></label>
+        <name>Extra1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Extra2__c --></label>
+        <name>Extra2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fed_Reporting_1__c --></label>
+        <name>Fed_Reporting_1_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Fed_Reporting_2__c --></label>
+        <name>Fed_Reporting_2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- FederalContactFirstName__c --></label>
+        <name>FederalContactFirstName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- FederalContactLastName__c --></label>
+        <name>FederalContactLastName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal_Contact_Name_Calc__c --></label>
+        <name>Federal_Contact_Name_Calc_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal_Owner_Name_Calc__c --></label>
+        <name>Federal_Owner_Name_Calc_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal_Service_Tag__c --></label>
+        <name>Federal_Service_Tag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Federal__c --></label>
+        <name>Federal_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Firmware_BIOS__c --></label>
+        <name>Firmware_BIOS_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- First_Email_Age_Business_Hours__c --></label>
+        <name>First_Email_Age_Business_Hours_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- First_Email_within_Email_SLT__c --></label>
+        <name>First_Email_within_Email_SLT_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Full_Model__c --></label>
+        <name>Full_Model_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- GA_Comp_Visibility__c --></label>
+        <name>GA_Comp_Visibility_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAXCompanyName --></label>
+        <name>GRAXCompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Key --></label>
+        <name>GRAX_Execution_Unique_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Execution_Unique_Keys --></label>
+        <name>GRAX_Execution_Unique_Keys__c</name>
+    </fields>
+    <fields>
+        <label><!-- GRAX_Version --></label>
+        <name>GRAX_Version__c</name>
+    </fields>
+    <fields>
+        <label><!-- Grax_to_Grax__c --></label>
+        <name>Grax_to_Grax_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- HES_Case_Flag__c --></label>
+        <name>HES_Case_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Id --></label>
+        <name>Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Impact_Hours__c --></label>
+        <name>Impact_Hours_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Impact_Type__c --></label>
+        <name>Impact_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Inbound_Email_Trails__c --></label>
+        <name>Inbound_Email_Trails_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Incident_Type__c --></label>
+        <name>Incident_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Initial_Customer_Contact_DateTime__c --></label>
+        <name>Initial_Customer_Contact_DateTime_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- InternalCaseRecordType__c --></label>
+        <name>InternalCaseRecordType_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal_Case_Create_Reason__c --></label>
+        <name>Internal_Case_Create_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal_Disposition_Category__c --></label>
+        <name>Internal_Disposition_Category_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Internal_Disposition_Reason__c --></label>
+        <name>Internal_Disposition_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsClosedOnCreate --></label>
+        <name>IsClosedOnCreate__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsClosed --></label>
+        <name>IsClosed__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsDeleted --></label>
+        <name>IsDeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsEscalated --></label>
+        <name>IsEscalated__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsStopped --></label>
+        <name>IsStopped__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is_Working__c --></label>
+        <name>Is_Working_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ishchat__c --></label>
+        <name>Ishchat_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Issue_Description__c --></label>
+        <name>Issue_Description_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Issue_Key__c --></label>
+        <name>Issue_Key_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LOB__c --></label>
+        <name>LOB_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Language --></label>
+        <name>Language__c</name>
+    </fields>
+    <fields>
+        <label><!-- Language__c --></label>
+        <name>Language_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedByAlias --></label>
+        <name>LastModifiedByAlias__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById --></label>
+        <name>LastModifiedById__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedById_grax_xf_user --></label>
+        <name>LastModifiedById_grax_xf_user__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastModifiedDate --></label>
+        <name>LastModifiedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastReferencedDate --></label>
+        <name>LastReferencedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- LastViewedDate --></label>
+        <name>LastViewedDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Local_Channel__c --></label>
+        <name>Local_Channel_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Logged_User_OSP__c --></label>
+        <name>Logged_User_OSP_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Logged_User_Title__c --></label>
+        <name>Logged_User_Title_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Logged_User__c --></label>
+        <name>Logged_User_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__ALG_Response_Id__c --></label>
+        <name>MaritzCX_ALG_Response_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__ALG_Survey_Id__c --></label>
+        <name>MaritzCX_ALG_Survey_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Alert_Rule_Criteria__c --></label>
+        <name>MaritzCX_Alert_Rule_Criteria_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Lead_Id__c --></label>
+        <name>MaritzCX_Lead_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Respondent_Email__c --></label>
+        <name>MaritzCX_Respondent_Email_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Response_Deleted_From_MaritzCX --></label>
+        <name>MaritzCX_Response_Deleted_From_MaritzCX__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Response_View_Link__c --></label>
+        <name>MaritzCX_Response_View_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Survey_Id__c --></label>
+        <name>MaritzCX_Survey_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MaritzCX__Survey_Response_Id__c --></label>
+        <name>MaritzCX_Survey_Response_Id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Microsoft_B2B_Count__c --></label>
+        <name>Microsoft_B2B_Count_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- MilestoneStatus --></label>
+        <name>MilestoneStatus__c</name>
+    </fields>
+    <fields>
+        <label><!-- Milestone_Flag__c --></label>
+        <name>Milestone_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Model__c --></label>
+        <name>Model_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- My_Team__c --></label>
+        <name>My_Team_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Next_Best_Action_Hyperlink__c --></label>
+        <name>Next_Best_Action_Hyperlink_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentContactEmail__c --></label>
+        <name>NonAgentContactEmail_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentContactFirstName__c --></label>
+        <name>NonAgentContactFirstName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentContactLastName__c --></label>
+        <name>NonAgentContactLastName_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentContactPhoneExt__c --></label>
+        <name>NonAgentContactPhoneExt_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentContactPhone__c --></label>
+        <name>NonAgentContactPhone_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentSecondaryPhoneExt__c --></label>
+        <name>NonAgentSecondaryPhoneExt_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- NonAgentSecondaryPhone__c --></label>
+        <name>NonAgentSecondaryPhone_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OOW_Flag__c --></label>
+        <name>OOW_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OS__c --></label>
+        <name>OS_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OpenB2B__c --></label>
+        <name>OpenB2B_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OpenTasks__c --></label>
+        <name>OpenTasks_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OpenVMware__c --></label>
+        <name>OpenVMware_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Open__c --></label>
+        <name>Open_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operating_System_Details__c --></label>
+        <name>Operating_System_Details_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Operating_System__c --></label>
+        <name>Operating_System_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Origin --></label>
+        <name>Origin__c</name>
+    </fields>
+    <fields>
+        <label><!-- Out_Of_Scope__c --></label>
+        <name>Out_Of_Scope_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Outbound_Email_Trails__c --></label>
+        <name>Outbound_Email_Trails_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId --></label>
+        <name>OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId__c --></label>
+        <name>OwnerId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId_grax_xf_OwnerId --></label>
+        <name>OwnerId_grax_xf_OwnerId__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerId_grax_xf_group --></label>
+        <name>OwnerId_grax_xf_group__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerLogin__c --></label>
+        <name>OwnerLogin_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- OwnerRole__c --></label>
+        <name>OwnerRole_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner_Region__c --></label>
+        <name>Owner_Region_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner_Sub_region__c --></label>
+        <name>Owner_Sub_region_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Owner_country__c --></label>
+        <name>Owner_country_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ParentId --></label>
+        <name>ParentId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent_Legacy_SR_Num__c --></label>
+        <name>Parent_Legacy_SR_Num_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent_SR_Record_Type__c --></label>
+        <name>Parent_SR_Record_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- PotentialLiability__c --></label>
+        <name>PotentialLiability_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Premier_Type__c --></label>
+        <name>Premier_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Premier_Type_for_Routing_Rules__c --></label>
+        <name>Premier_Type_for_Routing_Rules_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority_Escalation__c --></label>
+        <name>Priority_Escalation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority_Mapping_Rule_Name__c --></label>
+        <name>Priority_Mapping_Rule_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority_Score__c --></label>
+        <name>Priority_Score_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority --></label>
+        <name>Priority__c</name>
+    </fields>
+    <fields>
+        <label><!-- Priority__c --></label>
+        <name>Priority_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product_LOB_Code__c --></label>
+        <name>Product_LOB_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product_Line__c --></label>
+        <name>Product_Line_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product_Name__c --></label>
+        <name>Product_Name_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product__c --></label>
+        <name>Product_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Queue_Details__c --></label>
+        <name>Queue_Details_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Quick_Call__c --></label>
+        <name>Quick_Call_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Quick_Link__c --></label>
+        <name>Quick_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ReOpenFlag__c --></label>
+        <name>ReOpenFlag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reason --></label>
+        <name>Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- Reason_for_repeat_Work_Order__c --></label>
+        <name>Reason_for_repeat_Work_Order_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received_On__c --></label>
+        <name>Received_On_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId --></label>
+        <name>RecordTypeId__c</name>
+    </fields>
+    <fields>
+        <label><!-- RecordTypeId_grax_xf_recordtype --></label>
+        <name>RecordTypeId_grax_xf_recordtype__c</name>
+    </fields>
+    <fields>
+        <label><!-- Region__c --></label>
+        <name>Region_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ReminderDateTimeNCC__c --></label>
+        <name>ReminderDateTimeNCC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ReminderDate__c --></label>
+        <name>ReminderDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Resolution_Summary__c --></label>
+        <name>Resolution_Summary_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- ResolvedDate__c --></label>
+        <name>ResolvedDate_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Routing_Rules_Record_Number__c --></label>
+        <name>Routing_Rules_Record_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Run_Report_on_logged_user_Role__c --></label>
+        <name>Run_Report_on_logged_user_Role_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Run_Report_on_logged_user__c --></label>
+        <name>Run_Report_on_logged_user_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- S360_Case_Number__c --></label>
+        <name>S360_Case_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- S360_Salesforce_CaseID__c --></label>
+        <name>S360_Salesforce_CaseID_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SATC_Link__c --></label>
+        <name>SATC_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLAViolation__c --></label>
+        <name>SLAViolation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLA__c --></label>
+        <name>SLA_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SLC__c --></label>
+        <name>SLC_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SMS_Case_Closure__c --></label>
+        <name>SMS_Case_Closure_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SMS_SR_Flag__c --></label>
+        <name>SMS_SR_Flag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SNOW_Case_Number__c --></label>
+        <name>SNOW_Case_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SPMD_Link__c --></label>
+        <name>SPMD_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- STLQi_Link__c --></label>
+        <name>STLQi_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Safety_Issue__c --></label>
+        <name>Safety_Issue_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Scope_of_Work__c --></label>
+        <name>Scope_of_Work_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Secondary_SR__c --></label>
+        <name>Secondary_SR_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Segment__c --></label>
+        <name>Segment_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Serial_Number__c --></label>
+        <name>Serial_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Service_Tag__c --></label>
+        <name>Service_Tag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Skills_for_SR__c --></label>
+        <name>Skills_for_SR_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SlaExitDate --></label>
+        <name>SlaExitDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- SlaStartDate --></label>
+        <name>SlaStartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Social_Handle__c --></label>
+        <name>Social_Handle_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SourceId --></label>
+        <name>SourceId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Special_Handling_Visibility__c --></label>
+        <name>Special_Handling_Visibility_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start_Time__c --></label>
+        <name>Start_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status_Reason__c --></label>
+        <name>Status_Reason_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status__c --></label>
+        <name>Status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SubClass__c --></label>
+        <name>SubClass_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Subject --></label>
+        <name>Subject__c</name>
+    </fields>
+    <fields>
+        <label><!-- SuppliedCompany --></label>
+        <name>SuppliedCompany__c</name>
+    </fields>
+    <fields>
+        <label><!-- SuppliedEmail --></label>
+        <name>SuppliedEmail__c</name>
+    </fields>
+    <fields>
+        <label><!-- SuppliedName --></label>
+        <name>SuppliedName__c</name>
+    </fields>
+    <fields>
+        <label><!-- SuppliedPhone --></label>
+        <name>SuppliedPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Support_Team__c --></label>
+        <name>Support_Team_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Symptom_Code__c --></label>
+        <name>Symptom_Code_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- SystemModstamp --></label>
+        <name>SystemModstamp__c</name>
+    </fields>
+    <fields>
+        <label><!-- System_Age_Days__c --></label>
+        <name>System_Age_Days_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- System_Type__c --></label>
+        <name>System_Type_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tag__c --></label>
+        <name>Tag_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Taskcount__c --></label>
+        <name>Taskcount_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- TechDirect_Link__c --></label>
+        <name>TechDirect_Link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test_Field__c --></label>
+        <name>Test_Field_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Time_to_Relief__c --></label>
+        <name>Time_to_Relief_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Top_3_Predictions__c --></label>
+        <name>Top_3_Predictions_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- TranscriptId__c --></label>
+        <name>TranscriptId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Transfer_To_Agent__c --></label>
+        <name>Transfer_To_Agent_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Trigger_Time__c --></label>
+        <name>Trigger_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type_of_Safety_Hazard__c --></label>
+        <name>Type_of_Safety_Hazard_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- UpdateLog__c --></label>
+        <name>UpdateLog_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- UserId__c --></label>
+        <name>UserId_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- button_id__c --></label>
+        <name>button_id_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- check_for_validation__c --></label>
+        <name>check_for_validation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxModifiedTime --></label>
+        <name>graxModifiedTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Account_Lookup2__c --></label>
+        <name>grax_Account_Lookup2_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Account_Lookup2__r_Name --></label>
+        <name>grax_Account_Lookup2_r_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Account_Name --></label>
+        <name>grax_Account_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Asset_Name --></label>
+        <name>grax_Asset_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_BusinessHours_Name --></label>
+        <name>grax_BusinessHours_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CARE_Order__r_OrderNumber --></label>
+        <name>grax_CARE_Order_r_OrderNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Contact_Name --></label>
+        <name>grax_Contact_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_CreatedBy_Name --></label>
+        <name>grax_CreatedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Custom_Date__c --></label>
+        <name>grax_Custom_Date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__EngineeringReqNumber__c --></label>
+        <name>grax_EngineeringReqNumber_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Entitlement_Name --></label>
+        <name>grax_Entitlement_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_LastModifiedBy_Name --></label>
+        <name>grax_LastModifiedBy_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Multi_select__c --></label>
+        <name>grax_Multi_select_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_OwnerId_xf --></label>
+        <name>grax_OwnerId_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_Owner_Name --></label>
+        <name>grax_Owner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__PotentialLiability__c --></label>
+        <name>grax_PotentialLiability_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__Product__c --></label>
+        <name>grax_Product_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_RecordType_Name --></label>
+        <name>grax_RecordType_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax__SLAViolation__c --></label>
+        <name>grax_SLAViolation_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_account_xf --></label>
+        <name>grax_account_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_asset_xf --></label>
+        <name>grax_asset_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_businesshours_xf --></label>
+        <name>grax_businesshours_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_case_xf --></label>
+        <name>grax_case_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_contact_xf --></label>
+        <name>grax_contact_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_entitlement_xf --></label>
+        <name>grax_entitlement_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_group_xf --></label>
+        <name>grax_group_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_order_xf --></label>
+        <name>grax_order_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_recordtype_xf --></label>
+        <name>grax_recordtype_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_user_xf --></label>
+        <name>grax_user_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- grax_xf --></label>
+        <name>grax_xf__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxid --></label>
+        <name>graxid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxorgid --></label>
+        <name>graxorgid__c</name>
+    </fields>
+    <fields>
+        <label><!-- graxtograx --></label>
+        <name>graxtograx__c</name>
+    </fields>
+    <fields>
+        <label><!-- next_best_action__c --></label>
+        <name>next_best_action_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- next_best_action_link__c --></label>
+        <name>next_best_action_link_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- spr_sf__Sprinklr_Case_Number__c --></label>
+        <name>spr_sf_Sprinklr_Case_Number_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- testing__c --></label>
+        <name>testing_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- time_taken_for_the_first_response__c --></label>
+        <name>time_taken_for_the_first_response_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Local_Time_24_Short__c --></label>
+        <name>tz_Local_Time_24_Short_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Local_Time_24__c --></label>
+        <name>tz_Local_Time_24_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Local_Time_Short__c --></label>
+        <name>tz_Local_Time_Short_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Local_Time__c --></label>
+        <name>tz_Local_Time_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Timezone_Formula__c --></label>
+        <name>tz_Timezone_Formula_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__Timezone_Full__c --></label>
+        <name>tz_Timezone_Full_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- tz__UTC_Offset_Formula__c --></label>
+        <name>tz_UTC_Offset_Formula_c__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
