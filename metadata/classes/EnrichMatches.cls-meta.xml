@@ -3,7 +3,7 @@
     <apiVersion>47.0</apiVersion>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>178</minorNumber>
+        <minorNumber>188</minorNumber>
         <namespace>grax</namespace>
     </packageVersions>
     <status>Active</status>
