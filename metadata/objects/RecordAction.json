@@ -493,6 +493,7 @@
         "Contact",
         "ContactRequest",
         "Contract",
+        "Interviewer__c",
         "Lead",
         "Opportunity",
         "Order",
