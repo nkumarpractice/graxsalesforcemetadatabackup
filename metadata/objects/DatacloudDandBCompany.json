@@ -13168,11 +13168,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/DatacloudDandBCompany/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/DatacloudDandBCompany/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/DatacloudDandBCompany/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/DatacloudDandBCompany/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/09N/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/09N/e",
     "layouts": "/services/data/v43.0/sobjects/DatacloudDandBCompany/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/DatacloudDandBCompany"
   }
