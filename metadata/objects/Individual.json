@@ -1578,11 +1578,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/Individual/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/Individual/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/Individual/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/Individual/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0PK/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0PK/e",
     "quickActions": "/services/data/v43.0/sobjects/Individual/quickActions",
     "layouts": "/services/data/v43.0/sobjects/Individual/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/Individual"
