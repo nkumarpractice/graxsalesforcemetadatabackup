@@ -196,6 +196,7 @@
         "Contract",
         "Event",
         "FeedItem",
+        "Interviewer__c",
         "Lead",
         "Opportunity",
         "Order",
