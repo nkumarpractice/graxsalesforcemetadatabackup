@@ -1359,6 +1359,34 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "graxaccountindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcaseindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxcontactindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "graxopportunityindex__x"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "HealthCareDiagnosis"
         },
         {
@@ -1521,6 +1549,13 @@
           "label": null,
           "validFor": null,
           "value": "InsuranceProfile"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer__c"
         },
         {
           "active": true,
