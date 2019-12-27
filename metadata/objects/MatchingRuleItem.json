@@ -985,6 +985,20 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Inter_Account"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Interviewer"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Jigsaw"
         },
         {
@@ -1133,6 +1147,13 @@
           "label": null,
           "validFor": null,
           "value": "NaicsDesc"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
+          "value": "Name"
         },
         {
           "active": true,
