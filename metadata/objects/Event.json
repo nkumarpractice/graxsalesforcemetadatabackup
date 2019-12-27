@@ -3612,11 +3612,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/Event/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/Event/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/Event/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/Event/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/00U/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/00U/e",
     "quickActions": "/services/data/v43.0/sobjects/Event/quickActions",
     "layouts": "/services/data/v43.0/sobjects/Event/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/Event"
