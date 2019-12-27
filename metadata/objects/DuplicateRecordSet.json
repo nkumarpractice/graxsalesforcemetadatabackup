@@ -811,11 +811,11 @@
     "compactLayouts": "/services/data/v43.0/sobjects/DuplicateRecordSet/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/DuplicateRecordSet/{ID}",
     "approvalLayouts": "/services/data/v43.0/sobjects/DuplicateRecordSet/describe/approvalLayouts",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/DuplicateRecordSet/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/DuplicateRecordSet/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/0GK/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/0GK/e",
     "layouts": "/services/data/v43.0/sobjects/DuplicateRecordSet/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/DuplicateRecordSet"
   }
