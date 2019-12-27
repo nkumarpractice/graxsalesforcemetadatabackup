@@ -302,6 +302,7 @@
         "Case",
         "ContactRequest",
         "Contract",
+        "Interviewer__c",
         "ListEmail",
         "Opportunity",
         "Order",
