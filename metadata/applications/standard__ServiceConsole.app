@@ -179,7 +179,11 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Interviewer__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Interviewer__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
