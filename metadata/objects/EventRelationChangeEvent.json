@@ -241,6 +241,7 @@
         "Contact",
         "ContactRequest",
         "Contract",
+        "Interviewer__c",
         "Lead",
         "ListEmail",
         "Opportunity",
