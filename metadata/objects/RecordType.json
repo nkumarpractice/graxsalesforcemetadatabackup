@@ -844,6 +844,13 @@
           "defaultValue": false,
           "label": null,
           "validFor": null,
+          "value": "Interviewer__c"
+        },
+        {
+          "active": true,
+          "defaultValue": false,
+          "label": null,
+          "validFor": null,
           "value": "Lead"
         },
         {
