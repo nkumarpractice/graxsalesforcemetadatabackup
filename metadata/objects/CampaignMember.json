@@ -1641,7 +1641,7 @@
       "writeRequiresMasterRead": false
     },
     {
-      "aggregatable": true,
+      "aggregatable": false,
       "aiPredictionField": false,
       "autoNumber": false,
       "byteLength": 120,
@@ -1663,10 +1663,10 @@
       "encrypted": false,
       "externalId": false,
       "extraTypeInfo": null,
-      "filterable": true,
+      "filterable": false,
       "filteredLookupInfo": null,
       "formulaTreatNullNumberAsZero": false,
-      "groupable": true,
+      "groupable": false,
       "highScaleNumber": false,
       "htmlFormatted": false,
       "idLookup": false,
@@ -1693,7 +1693,7 @@
       "scale": 0,
       "searchPrefilterable": false,
       "soapType": "xsd:string",
-      "sortable": true,
+      "sortable": false,
       "type": "phone",
       "unique": false,
       "updateable": false,
@@ -2317,11 +2317,11 @@
   "urls": {
     "compactLayouts": "/services/data/v43.0/sobjects/CampaignMember/describe/compactLayouts",
     "rowTemplate": "/services/data/v43.0/sobjects/CampaignMember/{ID}",
-    "uiDetailTemplate": "https://ap15.salesforce.com/{ID}",
-    "uiEditTemplate": "https://ap15.salesforce.com/{ID}/e",
+    "uiDetailTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}",
+    "uiEditTemplate": "https://nkumar-dev-ed.my.salesforce.com/{ID}/e",
     "defaultValues": "/services/data/v43.0/sobjects/CampaignMember/defaultValues?recordTypeId&fields",
     "describe": "/services/data/v43.0/sobjects/CampaignMember/describe",
-    "uiNewRecord": "https://ap15.salesforce.com/00v/e",
+    "uiNewRecord": "https://nkumar-dev-ed.my.salesforce.com/00v/e",
     "layouts": "/services/data/v43.0/sobjects/CampaignMember/describe/layouts",
     "sobject": "/services/data/v43.0/sobjects/CampaignMember"
   }
